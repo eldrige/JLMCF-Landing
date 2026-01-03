@@ -1,32 +1,51 @@
 {
   "metadata": {
     "source_file": "_chat.txt",
-    "total_participants": 340,
-    "participants_with_linkedin": 154,
-    "participants_with_country": 245,
+    "extraction_date": "2026-01-03T18:08:19.675630",
+    "total_participants": 371,
+    "participants_with_linkedin": 175,
+    "participants_with_country": 271,
+    "participants_with_email": 3,
+    "participants_with_interests": 257,
+    "total_messages": 1561,
     "countries_breakdown": {
-      "Unknown": 95,
+      "Unknown": 99,
+      "Uganda": 42,
+      "Rwanda": 41,
       "Ethiopia": 40,
-      "Uganda": 38,
-      "Rwanda": 35,
-      "Kenya": 34,
-      "Malawi": 23,
-      "Cameroon": 10,
+      "Kenya": 38,
+      "Malawi": 25,
+      "Cameroon": 11,
+      "South Africa": 11,
       "Zimbabwe": 8,
-      "South Sudan": 8,
-      "South Africa": 8,
-      "DR Congo": 7,
+      "DR Congo": 8,
+      "South Sudan": 7,
+      "Nigeria": 7,
       "Zambia": 6,
       "Benin": 5,
-      "Nigeria": 5,
-      "Botswana": 4,
+      "Botswana": 5,
       "Tanzania": 4,
+      "Sierra Leone": 3,
       "Sudan": 3,
       "Egypt": 2,
-      "Sierra Leone": 2,
+      "Guinea": 1,
+      "Senegal": 1,
       "Burundi": 1,
       "Eswatini": 1,
       "Namibia": 1
+    },
+    "interests_breakdown": {
+      "technology": 245,
+      "media": 107,
+      "entrepreneurship": 49,
+      "social_impact": 41,
+      "environment": 25,
+      "agriculture": 18,
+      "education": 16,
+      "energy": 13,
+      "health": 9,
+      "finance": 2,
+      "fashion": 1
     }
   },
   "participants": [
@@ -36,15 +55,24 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/laura-gachanja",
       "linkedin_username": "laura-gachanja",
+      "interests": ["technology"],
+      "message_count": 12,
+      "first_seen": "1/2/26 09:04:54",
       "introduction": "Hello I am Laura from Kenya happy to connect with you guys\nhttps://www.linkedin.com/in/laura-gachanja/"
     },
     {
       "display_name": "A.U.Sesay",
       "linkedin_url": "https://www.linkedin.com/in/mr-abdul-rahaman-a-u-sesay-a29a061ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "mr-abdul-rahaman-a-u-sesay-a29a061ab"
+      "linkedin_username": "mr-abdul-rahaman-a-u-sesay-a29a061ab",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:21:30"
     },
     {
-      "display_name": "ABC School MedCare"
+      "display_name": "ABC School MedCare",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 17:48:05"
     },
     {
       "display_name": "Abdelaziz Sami",
@@ -52,17 +80,26 @@
       "country": "Egypt",
       "linkedin_url": "https://www.linkedin.com/in/abdelaziz-samii",
       "linkedin_username": "abdelaziz-samii",
+      "interests": ["health", "technology", "environment", "entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 17:33:54",
       "introduction": "Hello everyone 👋\nGlad to be part of JLMCF 2026 with such an inspiring group of fellows.\nMy name is Abdelaziz Sami, a data scientist and founder of Tech Care, a healthtech startup based in Egypt, working on strengthening the healthcare business ecosystem across Africa through AI-driven solutions.\nI’d love to connect, exchange ideas, and learn from your experiences.\nFeel free to check out my LinkedIn and share your thoughts or feedback happy to hear your perspectives\nhttps://www.linkedin.com/in/ab"
     },
     {
-      "display_name": "Abdulgafar Ahmad O."
+      "display_name": "Abdulgafar Ahmad O.",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:10:13"
     },
     {
-      "display_name": "Abdulwekil Abrar"
+      "display_name": "Abdulwekil Abrar",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:48:53"
     },
     {
       "display_name": "Abednego Mukisa😀😀",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:04:45",
       "introduction": "Hello everyone am Mukisa Abednego - uganda"
     },
     {
@@ -70,12 +107,25 @@
       "country": "Zimbabwe",
       "linkedin_url": "https://www.linkedin.com/in/abednigo-mr-moyo-12b4b11b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "abednigo-mr-moyo-12b4b11b1",
+      "interests": [
+        "technology",
+        "agriculture",
+        "energy",
+        "social_impact",
+        "media"
+      ],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:24:12",
       "introduction": "Hello everyone,\nI.am Abednigo Moyo from Zimbabwe 🇿🇼\nI am into\n1. Bee 🐝 keeping\n2. Herbal teas & spices\n3. Fish farming tilapia\n4. Spirulina production\nAlso interested in Corporate Social Responsibility,  Community empowerment & development,  Disability advocacy and inclusion"
     },
     {
       "display_name": "Aboma Garoma",
+      "country": "Guinea",
       "linkedin_url": "https://www.linkedin.com/in/aboma-garoma471?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "aboma-garoma471",
+      "interests": ["technology", "media"],
+      "message_count": 6,
+      "first_seen": "1/2/26 15:57:19",
       "introduction": "It's just 2 AM from Equatorial Guinea"
     },
     {
@@ -84,13 +134,29 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/abrack-amare-592095339",
       "linkedin_username": "abrack-amare-592095339",
+      "interests": ["technology", "environment"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:12:21",
       "introduction": "Hello everyone.....Happy new year...\nI'm Abrack from Ethiopia. Let's connect on via https://www.linkedin.com/in/abrack-amare-592095339"
+    },
+    {
+      "display_name": "Acteroeh",
+      "country": "Kenya",
+      "linkedin_url": "https://www.linkedin.com/in/ekiring-atte-g-ebk-55a7271a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "ekiring-atte-g-ebk-55a7271a6",
+      "interests": ["technology", "media", "environment"],
+      "message_count": 5,
+      "first_seen": "1/3/26 10:19:26",
+      "introduction": "Hello great people\nAllan here from Kenya\nlet's connect on LinkedIn:\nhttps://www.linkedin.com/in/ekiring-atte-g-ebk-55a7271a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Adeline Pivoine",
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/adeline-pivoine-gusenga-77016b180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "adeline-pivoine-gusenga-77016b180",
+      "interests": ["technology", "environment", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:25:11",
       "introduction": "Pivoine Adeline\nFrom Rwanda\nLet's connect\nhttps://www.linkedin.com/in/adeline-pivoine-gusenga-77016b180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
@@ -99,22 +165,43 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/aderajew-zewdu-26b9ba343",
       "linkedin_username": "aderajew-zewdu-26b9ba343",
+      "interests": [
+        "technology",
+        "education",
+        "social_impact",
+        "entrepreneurship",
+        "health"
+      ],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:27:54",
       "introduction": "Hello everyone 👋\nMy name is Aderajew Zewdu from Ethiopia 🇪🇹. I’m a Software Engineer with a strong interest in entrepreneurship, civic tech, AI, and data-driven solutions for social impact. I have experience in system development, digital innovation, and working with community-focused and development programs.\nI’m excited to be part of the JLMCF Explore Entrepreneurship 2026 fellowship and to learn, collaborate, and exchange ideas with fellow entrepreneurs from around the world.\nLooking forward "
+    },
+    {
+      "display_name": "Adgraph",
+      "message_count": 1,
+      "first_seen": "1/3/26 11:50:13"
     },
     {
       "display_name": "Afusa Nabirye",
       "real_name": "Afusa Nabirye",
       "country": "Uganda",
+      "interests": ["technology", "social_impact"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:24:04",
       "introduction": "Hellooo everyone, glad to be part of this amazing community. My name is Afusa Nabirye from Uganda. I hope and pray we get the very best from this journey we are commensing. A happy and blessed  new year to you all🥳"
     },
     {
-      "display_name": "Agnes🥰"
+      "display_name": "Agnes🥰",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:07:35"
     },
     {
       "display_name": "Ahonakpon Guy GBAGUIDI",
       "country": "Benin",
       "linkedin_url": "https://www.linkedin.com/in/aggbaguidi",
       "linkedin_username": "aggbaguidi",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:51:40",
       "introduction": "Hello 🤗 everyone. \nI hope you're doing great. I'm A. Guy Gbaguidi from Benin. Happy new year to all of you 🙏😌🌟\nhttps://www.linkedin.com/in/aggbaguidi"
     },
     {
@@ -123,36 +210,56 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/aime-ishimwe",
       "linkedin_username": "aime-ishimwe",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:58:42",
       "introduction": "Good day fellow changemakers!\nI am Aime Ishimwe from Rwanda🇷🇼\nHappy to be here with you!\nLet's connect here: https://www.linkedin.com/in/aime-ishimwe/"
     },
     {
-      "display_name": "ALCHEMIST"
+      "display_name": "ALCHEMIST",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:49:36"
     },
     {
       "display_name": "Alebachew Yalew",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 6,
+      "first_seen": "1/2/26 19:05:22",
       "introduction": "I am from Ethiopia , how are you every one ,congrajulations"
     },
     {
       "display_name": "Alinaitwe Ronnie",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/ronald-alinaitwe-9169532a3",
-      "linkedin_username": "ronald-alinaitwe-9169532a3"
+      "linkedin_username": "ronald-alinaitwe-9169532a3",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 20:58:35"
     },
     {
       "display_name": "Aloys",
       "country": "Rwanda",
+      "university": "Kepler college",
+      "interests": ["entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:38:03",
       "introduction": "Warm greetings fellows Entrepreneurs, Aloys BIZIMANA from Kepler college - Rwanda"
     },
     {
       "display_name": "alufalevix",
       "real_name": "Dusingizimana Alphonse",
       "country": "Rwanda",
+      "interests": ["entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 16:17:37",
       "introduction": "Hello everyone \nMy name is Dusingizimana Alphonse form Rwanda\nI am happy to be here as Rwandan 🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼🇷🇼\nHappy New year"
     },
     {
       "display_name": "Aluong Kut",
-      "country": "South Sudan"
+      "country": "South Sudan",
+      "message_count": 2,
+      "first_seen": "1/2/26 16:22:42"
     },
     {
       "display_name": "Alvin",
@@ -160,105 +267,192 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/alvin-kariuki254",
       "linkedin_username": "alvin-kariuki254",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:11:38",
       "introduction": "Hi everyone I'm Alvin from Kenya 🇰🇪. Happy To connect \nhttps://www.linkedin.com/in/alvin-kariuki254"
     },
     {
       "display_name": "AmanuelAbraham",
       "real_name": "Amanuel",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:56:44",
       "introduction": "hello everyone I am Amanuel from Ethiopia"
+    },
+    {
+      "display_name": "Ambchow Kah",
+      "message_count": 1,
+      "first_seen": "1/3/26 12:43:48"
     },
     {
       "display_name": "Amour",
       "real_name": "Bruno",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:18:57",
       "introduction": "Hi everyone my name is Bruno from uganda and am happy to be here"
     },
     {
-      "display_name": "Andine"
+      "display_name": "AmunRa",
+      "message_count": 1,
+      "first_seen": "1/3/26 14:32:44"
     },
     {
-      "display_name": "Andiswa🐾"
+      "display_name": "Andine",
+      "country": "Cameroon",
+      "message_count": 3,
+      "first_seen": "1/2/26 21:45:15"
+    },
+    {
+      "display_name": "Andiswa🐾",
+      "city": "Cape Town",
+      "interests": ["technology"],
+      "message_count": 4,
+      "first_seen": "1/2/26 11:03:11"
     },
     {
       "display_name": "Andrew",
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/andrewomwenga",
       "linkedin_username": "andrewomwenga",
+      "interests": ["technology", "education"],
+      "message_count": 1,
+      "first_seen": "1/2/26 13:17:53",
       "introduction": "Hi everyone 👋\nI’m Andrew Omwenga  an engineer, who loves building solutions that actually work.\nAlways open to learning, collaborating, and connecting with great minds here.\nI’m already a soon-to-be citizen of Rwanda 🇷🇼😄\nLet’s connect: https://www.linkedin.com/in/andrewomwenga"
     },
     {
-      "display_name": "Andy Mtonga"
+      "display_name": "Andy Mtonga",
+      "message_count": 2,
+      "first_seen": "1/2/26 21:40:52"
     },
     {
       "display_name": "Anthony Kangogo",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:00:46",
       "introduction": "Where are you from specificly"
     },
     {
       "display_name": "anthony korsuk",
       "country": "Uganda",
+      "message_count": 2,
+      "first_seen": "1/2/26 09:30:41",
       "introduction": "Hello 👋 Anthony korsuk   from Uganda"
     },
     {
       "display_name": "Asa Haki",
       "country": "Kenya",
+      "interests": ["social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 14:21:10",
       "introduction": "Hello \nI'm ASA HAKI.\nA Congolese who lives in Kenya."
     },
     {
       "display_name": "Asaba",
       "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/2/26 15:29:46",
       "introduction": "Helo \nAm Asaba Denis from rwanda so happy to be here"
     },
     {
-      "display_name": "Ashley Kunta"
+      "display_name": "Ashley Kunta",
+      "interests": ["entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 09:19:06"
     },
     {
-      "display_name": "Asiimwe Derrick"
+      "display_name": "Asiimwe Derrick",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:14:21"
     },
     {
       "display_name": "ASIIMWE ERIC",
       "linkedin_url": "https://www.linkedin.com/in/asiimwe-eric123b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "asiimwe-eric123b4"
+      "linkedin_username": "asiimwe-eric123b4",
+      "interests": ["technology", "media", "entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 21:01:55"
     },
     {
       "display_name": "Association",
       "country": "Cameroon",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:05:40",
       "introduction": "Greating here from cameroon 🙌"
     },
     {
       "display_name": "Auntie vaKeighley❤️",
       "country": "Zimbabwe",
       "linkedin_url": "https://www.linkedin.com/in/rutendo-yvonne-gutu-8640b6350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "linkedin_username": "rutendo-yvonne-gutu-8640b6350"
+      "linkedin_username": "rutendo-yvonne-gutu-8640b6350",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 18:59:33"
+    },
+    {
+      "display_name": "Austine Wandera",
+      "linkedin_url": "https://www.linkedin.com/in/austine-wandera-b14523344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "austine-wandera-b14523344",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/3/26 15:47:27"
     },
     {
       "display_name": "Avril❤️",
       "linkedin_url": "https://www.linkedin.com/in/tshepang-malope-96a0372a5?trk=contact-info",
-      "linkedin_username": "tshepang-malope-96a0372a5"
+      "linkedin_username": "tshepang-malope-96a0372a5",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 17:25:34"
+    },
+    {
+      "display_name": "AWATI & The Riff",
+      "linkedin_url": "https://www.linkedin.com/in/manirampa-francis-86b946243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "linkedin_username": "manirampa-francis-86b946243",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 17:10:09"
     },
     {
       "display_name": "Awsam",
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/samson-austin-ba8b42233",
       "linkedin_username": "samson-austin-ba8b42233",
+      "interests": ["technology", "social_impact"],
+      "message_count": 3,
+      "first_seen": "1/2/26 20:33:52",
       "introduction": "Good evening,\nThis is Samson Chisale from Malawi🇲🇼. You may address me as simply \"Sam\". Am pleased to be part of this community. We may connect also via LinkedIn in:\nhttps://www.linkedin.com/in/samson-austin-ba8b42233"
+    },
+    {
+      "display_name": "Ayenachew",
+      "message_count": 1,
+      "first_seen": "1/3/26 10:31:23"
     },
     {
       "display_name": "Ayuda Virtual Assistant Services Pty Ltd",
       "real_name": "Larona Siana",
       "country": "Botswana",
+      "email": "ayudabw@gmail.com",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 10:42:07",
       "introduction": "Hi everyone 👋🏽\nMy name is Larona Siana and I’m an entrepreneur based in Botswana.\nI’m the founder of Ayuda Virtual Assistant Services, a business support and virtual assistant service that helps entrepreneurs and small businesses streamline their operations through admin support, systems, and tech adoption. I also run an initiative called AI for the Strata, focused on making tech and AI practical and accessible for grassroots and informal entrepreneurs.\nMy work sits around operations, digital to"
     },
     {
       "display_name": "Baba Presley & Preslynn",
       "real_name": "Allen Gwangwadza",
       "country": "Zimbabwe",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 13:02:53",
       "introduction": "Hello Jim Leech MCF Fellows. My name is Allen Gwangwadza from Zimbabwe. I'm deeply happy to be part of this cohort and looking forward to gaining more insights from our interactions."
     },
     {
       "display_name": "Bake my Day",
       "real_name": "Chrissy",
       "country": "Malawi",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:35:11",
       "introduction": "Hie everyone, my name is Chrissy from Malawi...am happy to be part of this program...."
     },
     {
@@ -267,18 +461,37 @@
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/ntende-beka-isabirye",
       "linkedin_username": "ntende-beka-isabirye",
+      "interests": [
+        "social_impact",
+        "entrepreneurship",
+        "technology",
+        "education"
+      ],
+      "message_count": 21,
+      "first_seen": "1/2/26 09:38:20",
       "introduction": "One thing I know for sure, someone here might take this program too personal, that they end up marrying a fellow entrepreneur from here.\nBut, guys money is the goal, if the entrepreneur will give you money, feel free to marry them🤣🤣🤣"
     },
     {
       "display_name": "Banker",
       "real_name": "Habtamu Workineh jiksa",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 18:26:44",
       "introduction": "Hello everyone,  My name is Habtamu Workineh jiksa   from Ethiopia 🇪🇹. I am happy to be among people and am also happy to connect.https://www.linkedin.com/public-profile/settings"
     },
     {
       "display_name": "Barambanza",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 48,
+      "first_seen": "1/2/26 17:17:30",
       "introduction": "You're from Ethiopia?"
+    },
+    {
+      "display_name": "BC Cadette ❤️✊",
+      "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/3/26 11:53:28"
     },
     {
       "display_name": "Ben",
@@ -286,27 +499,33 @@
       "country": "Uganda",
       "linkedin_url": "https://linkedin.com/in/benard-owori",
       "linkedin_username": "benard-owori",
+      "interests": ["technology", "social_impact"],
+      "message_count": 4,
+      "first_seen": "1/2/26 17:18:13",
       "introduction": "Hi everyone 🤗\nI'm Benard from Uganda 🇺🇬, the Pearl of Africa.\nExcited to be part of this community and looking forward to sharing ideas, collaborations, and meaningful connections.\nLet's connect: http://linkedin.com/in/benard-owori"
-    },
-    {
-      "display_name": "Eldrige",
-      "real_name": "Apoh Eldrige",
-      "country": "Cameroon",
-      "linkedin_url": "https://linkedin.com/in/apoh-eldrige",
-      "linkedin_username": "apoh-eldrige",
-      "introduction": "Hi everyone 🤗\nI'm Eldrige from Cameroon 🇨🇲.\nExcited to be part of this community and looking forward to sharing ideas, collaborations, and meaningful connections.\nLet's connect: http://linkedin.com/in/apoh-eldrige"
     },
     {
       "display_name": "Bendjedid Rachad Sanoussi",
       "country": "Benin",
       "linkedin_url": "https://www.linkedin.com/in/rachadsanoussi",
       "linkedin_username": "rachadsanoussi",
+      "twitter": "rachadsanoussi",
+      "interests": [
+        "technology",
+        "agriculture",
+        "environment",
+        "entrepreneurship"
+      ],
+      "message_count": 4,
+      "first_seen": "1/2/26 12:07:51",
       "introduction": "Bendjedid Rachad here. I am from Benin, but based in Morocco. Founder and CTO of Green Leaf AI, an AgriTech startup. We can connect here \nhttps://www.linkedin.com/in/rachadsanoussi/"
     },
     {
       "display_name": "Bernadetteapio",
       "real_name": "Bernadette Apio",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:24:54",
       "introduction": "Hello everyone,\nMy name is Bernadette Apio from Uganda. Happy to meet y'all"
     },
     {
@@ -315,46 +534,77 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/betelhem-melese-gashawtena-1aa278339",
       "linkedin_username": "betelhem-melese-gashawtena-1aa278339",
+      "interests": ["technology", "environment"],
+      "message_count": 8,
+      "first_seen": "1/2/26 19:12:53",
       "introduction": "Hello,I am betelhem from Ethiopia"
     },
     {
       "display_name": "Betelihem Ayalew",
+      "real_name": "Betelihem",
       "country": "Ethiopia",
+      "linkedin_url": "https://www.linkedin.com/in/betelihem-ayalew-b5488217b",
+      "linkedin_username": "betelihem-ayalew-b5488217b",
+      "interests": ["technology", "social_impact"],
+      "message_count": 10,
+      "first_seen": "1/2/26 14:51:28",
       "introduction": "You are doing Great☺️ Mahlet and others from Ethiopia🥰"
     },
     {
       "display_name": "bettywambind",
       "real_name": "Beatrice",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:42:55",
       "introduction": "Hello fellows, I'm Beatrice from Kenya. I'm excited to be here"
     },
     {
       "display_name": "Bety",
       "real_name": "Betelhem",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:53:12",
       "introduction": "Hello I am Betelhem from Ethiopia .and Ofcourse we are in 2018😁we have our own Ethiopian calendar 13months…. Our Christmas also next week on Wednesday don’t forget to say merry Christmas to us Ethiopians too😁"
     },
     {
       "display_name": "Big2projects",
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/blessings-mlelemba-641a88330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "blessings-mlelemba-641a88330"
+      "linkedin_username": "blessings-mlelemba-641a88330",
+      "interests": [
+        "technology",
+        "environment",
+        "agriculture",
+        "media",
+        "entrepreneurship"
+      ],
+      "message_count": 45,
+      "first_seen": "1/2/26 12:21:29"
     },
     {
       "display_name": "Bisto",
       "real_name": "Bisto",
       "country": "South Africa",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:39:29",
       "introduction": "Good day everyone,\nWishing everyone a wonderful year ahead.\nI'm Bisto from South Africa"
     },
     {
       "display_name": "Blessings Matitha",
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/blessings-matitha-ba68992b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "blessings-matitha-ba68992b9"
+      "linkedin_username": "blessings-matitha-ba68992b9",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:41:33"
     },
     {
       "display_name": "Bolutife",
-      "country": "Nigeria"
+      "country": "Nigeria",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:44:26"
     },
     {
       "display_name": "Bongonyinge",
@@ -362,17 +612,33 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/bongonyinge?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "bongonyinge",
+      "interests": [
+        "technology",
+        "media",
+        "social_impact",
+        "entrepreneurship",
+        "agriculture",
+        "environment"
+      ],
+      "message_count": 11,
+      "first_seen": "1/2/26 20:51:35",
       "introduction": "Hello everyone here, I am George Bongonyinge from Uganda. I am more than excited to be part of this great team.\nKindly connect and follow me on LinkedIn through;\nhttps://www.linkedin.com/in/bongonyinge?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nThank you! This gonna be a very great year!"
     },
     {
       "display_name": "Breezy🤙🏻",
       "country": "Kenya",
+      "university": "s University",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:01:00",
       "introduction": "Hello guys. Name is Alvin Macharia from Kenya student at St. Paul’s University pursuing Computer Science."
     },
     {
       "display_name": "BRENDA M",
       "real_name": "Brenda Makwakwa",
       "country": "Malawi",
+      "message_count": 1,
+      "first_seen": "1/2/26 14:12:56",
       "introduction": "Hie everyone, I am Brenda Makwakwa from Malawi"
     },
     {
@@ -381,26 +647,50 @@
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/brigalia-mathibane-4ba43a187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "brigalia-mathibane-4ba43a187",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:34:59",
       "introduction": "Hi everyone I am Brigalia Mathibane from South Africa. I hope you’re all well.\nhttps://www.linkedin.com/in/brigalia-mathibane-4ba43a187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "Butterflies Baby Boutique",
       "linkedin_url": "https://www.linkedin.com/in/lindah-chisemphere-2904b422b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "lindah-chisemphere-2904b422b"
+      "linkedin_username": "lindah-chisemphere-2904b422b",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 17:33:20"
     },
     {
       "display_name": "BYAKGUINBO YADDOU",
       "real_name": "Byakguinbo Yaddou",
       "linkedin_url": "https://www.linkedin.com/in/yaddou-byakguinbo-6b39441ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "yaddou-byakguinbo-6b39441ba",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:33:01",
       "introduction": "Hi everyone \nMy name is Byakguinbo Yaddou from Chad 🇹🇩\nPleased to meet you guys"
     },
     {
-      "display_name": "Bîhàbànyi Kwàgàlà Tîmøthy Truth"
+      "display_name": "Bîhàbànyi Kwàgàlà Tîmøthy Truth",
+      "message_count": 2,
+      "first_seen": "1/2/26 12:34:10"
+    },
+    {
+      "display_name": "C'est Irénée",
+      "country": "Rwanda",
+      "linkedin_url": "https://www.linkedin.com/in/irenee-dushime-uwineza-",
+      "linkedin_username": "irenee-dushime-uwineza-",
+      "interests": ["health", "technology"],
+      "message_count": 1,
+      "first_seen": "1/3/26 13:20:42",
+      "introduction": "Hello 👋 \nIrénée here from Rwanda\nBuilding in the healthtech sector.\nLet's connect 🤝\nhttps://www.linkedin.com/in/irenee-dushime-uwineza- ‎<This message was edited>"
     },
     {
       "display_name": "Certified Samaki cookies.",
       "country": "Kenya",
+      "interests": ["entrepreneurship"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:37:32",
       "introduction": "Happy New year Am Francis Thoya from Kenya am the the founder of a product called samaki cookies. You can Google samaki cookies and read let's connect"
     },
     {
@@ -408,6 +698,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/chanceumurangwa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "chanceumurangwa",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:30:36",
       "introduction": "GREETINGS FROM RWANDA, 👋🏾🇷🇼\nI AM CHANCE, I AM HAPPY TO BE HERE WITH Y’ALL.\nhttps://www.linkedin.com/in/chanceumurangwa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app\nHAPPY NEW YEAR!🎆\nSTAY BLESSED!"
     },
     {
@@ -416,33 +709,50 @@
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/chantelle-shoko-6ba732288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "chantelle-shoko-6ba732288",
+      "interests": ["technology", "finance", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 14:00:39",
       "introduction": "Hi everyone ✨\nMy name is Chantelle Shoko from South Africa 🇿🇦.\nI am a final year finance student and I am excited to go on this journey with all of you .\nLinkedIn: https://www.linkedin.com/in/chantelle-shoko-6ba732288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Charlie",
       "real_name": "Charles Luhanga",
       "country": "Malawi",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:14:53",
       "introduction": "Hello, \nI am Charles Luhanga from Malawi🇲🇼"
     },
     {
       "display_name": "Chicco♥️",
       "real_name": "Chikondi",
       "country": "Malawi",
+      "linkedin_url": "https://www.linkedin.com/in/chikondi-nkhoma-9395961a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "chikondi-nkhoma-9395961a5",
+      "interests": ["technology", "energy", "media"],
+      "message_count": 5,
+      "first_seen": "1/2/26 11:58:40",
       "introduction": "Hello everyone \nI'm Chikondi from Malawi.\nI hope we all have a prosperous 2026. I'm excited to go on this journey with all of you."
     },
     {
       "display_name": "Chol Yol",
       "country": "South Sudan",
+      "message_count": 2,
+      "first_seen": "1/2/26 12:49:12",
       "introduction": "Hi everyone \nI'm by the name  Chol Yol Nyongkuei from South Sudan"
     },
     {
-      "display_name": "Chris"
+      "display_name": "Chris",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:26:50"
     },
     {
       "display_name": "chyrs",
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/adengo-christopher-a7890834b",
       "linkedin_username": "adengo-christopher-a7890834b",
+      "interests": ["technology", "entrepreneurship", "social_impact"],
+      "message_count": 9,
+      "first_seen": "1/2/26 09:18:25",
       "introduction": "Does it mean the people from Ethiopia would have their Covid 19 era next year😂😂"
     },
     {
@@ -451,6 +761,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/ikuze-rodrigue-092604364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "ikuze-rodrigue-092604364",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:24:28",
       "introduction": "https://www.linkedin.com/in/ikuze-rodrigue-092604364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nHello everyone I'm Rodriguez IKUZE from Rwanda, 🇷🇼\nHappy to be here with you all."
     },
     {
@@ -459,30 +772,47 @@
       "country": "Benin",
       "linkedin_url": "https://www.linkedin.com/in/consolas-hodonou-184149253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "consolas-hodonou-184149253",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 16:32:31",
       "introduction": "Hi everyone ! I'm Consolas from Benin republic 🇧🇯.\nhttps://www.linkedin.com/in/consolas-hodonou-184149253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Cousin🥷😎",
       "linkedin_url": "https://www.linkedin.com/in/emmanuel-niyonambaza-511002327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "emmanuel-niyonambaza-511002327",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 09:08:15",
       "introduction": "Meeting you all🤝, no longer strangers ✌️ with hope that something great will come from it in the future 🤞\nhttps://www.linkedin.com/in/emmanuel-niyonambaza-511002327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "D.Malak Elbassuny",
       "country": "Egypt",
+      "interests": ["technology", "social_impact"],
+      "message_count": 6,
+      "first_seen": "1/2/26 22:42:24",
       "introduction": "I’m Malak Elbassuny from Egypt 🇪🇬 nice to meet you all"
     },
     {
-      "display_name": "Dada Holic ✌🏼"
+      "display_name": "Dada Holic ✌🏼",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:51:24"
     },
     {
-      "display_name": "Dadie☺️😇"
+      "display_name": "Dadie☺️😇",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 20:29:41"
     },
     {
       "display_name": "Daniel-Ghislain BASANSE",
       "country": "DR Congo",
       "linkedin_url": "https://www.linkedin.com/in/ghislain-daniel-ashuza-basanse-071120325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "ghislain-daniel-ashuza-basanse-071120325",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/3/26 09:17:37",
       "introduction": "Hello guys ! \nHere is Ghislain-Daniel from DRC.\nLet’s connect :\nhttps://www.linkedin.com/in/ghislain-daniel-ashuza-basanse-071120325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
@@ -490,39 +820,98 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/ritha-daniella-sahinkuye-a9a965272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "ritha-daniella-sahinkuye-a9a965272",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:12:07",
       "introduction": "Hello, I'm by the names of Daniella from Rwanda. Grateful and joyful to be here as a fellow. Here's my LinkedIn profile, let's connect. \nhttps://www.linkedin.com/in/ritha-daniella-sahinkuye-a9a965272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Dawit Demise Emrie",
       "linkedin_url": "https://www.linkedin.com/in/dawitemrie?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "dawitemrie",
+      "interests": ["technology", "media"],
+      "message_count": 4,
+      "first_seen": "1/2/26 11:55:53",
       "introduction": "ኢትዮጵያዊያን ወዬ እንባባል am from AAU-Let's connect and draft oir strategy to won"
     },
     {
       "display_name": "Dekens Ruzuba",
       "real_name": "Dekens Ruzuba",
       "country": "DR Congo",
+      "city": "Goma",
       "linkedin_url": "https://www.linkedin.com/in/dekens-ruzuba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "dekens-ruzuba",
+      "interests": ["technology", "media", "social_impact"],
+      "message_count": 4,
+      "first_seen": "1/2/26 12:09:26",
       "introduction": "Hello, here. I see everyone introducing themselves, and I wanted someone to tell me if it's necessary, if not mandatory 😁"
     },
     {
       "display_name": "Denis",
       "linkedin_url": "https://www.linkedin.com/in/muhereza-denis-aa03b3199",
-      "linkedin_username": "muhereza-denis-aa03b3199"
+      "linkedin_username": "muhereza-denis-aa03b3199",
+      "message_count": 1,
+      "first_seen": "1/2/26 17:04:17"
     },
     {
-      "display_name": "Derrick  Wanda😉"
+      "display_name": "Derrick  Wanda😉",
+      "message_count": 3,
+      "first_seen": "1/2/26 12:27:35"
+    },
+    {
+      "display_name": "Dhereye",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/3/26 10:48:38"
     },
     {
       "display_name": "Diallo Moustapha.",
       "real_name": "Mouhamadou Moustapha Diallo",
+      "country": "Senegal",
+      "interests": [
+        "technology",
+        "agriculture",
+        "education",
+        "energy",
+        "environment"
+      ],
+      "message_count": 4,
+      "first_seen": "1/2/26 16:29:37",
       "introduction": "*Hello everyone, my name is Mouhamadou Moustapha Diallo. I am from Senegal. I am an agricultural engineer and very happy to be part of this program. I look forward to learning and sharing with you all.*"
+    },
+    {
+      "display_name": "Dintle Segootsane 🇧🇼🇧🇼🇧🇼🇧🇼",
+      "country": "Botswana",
+      "linkedin_url": "https://www.linkedin.com/in/dintlesegootsane",
+      "linkedin_username": "dintlesegootsane",
+      "interests": ["technology", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/3/26 12:01:44",
+      "introduction": "https://www.linkedin.com/in/dintlesegootsane/                                                                                                                                     Hello Everyone ,Dintle Segootsane from Botswana,glad being part of this community.Here is my Linkedin,open for connections"
     },
     {
       "display_name": "Don Davan Juma",
       "linkedin_url": "https://www.linkedin.com/in/don-davan-869282383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "don-davan-869282383"
+      "linkedin_username": "don-davan-869282383",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 06:27:45"
+    },
+    {
+      "display_name": "DONALD",
+      "country": "Zambia",
+      "linkedin_url": "https://www.linkedin.com/in/donald-mazole-6073602a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "donald-mazole-6073602a7",
+      "interests": [
+        "technology",
+        "education",
+        "social_impact",
+        "media",
+        "environment"
+      ],
+      "message_count": 58,
+      "first_seen": "1/2/26 23:05:19",
+      "introduction": "Hello everyone 👋 \nI am DONALD from ZAMBIA.\nI am honored to be part of this community. Looking forward to learning and networking with you  💫✨"
     },
     {
       "display_name": "E.R",
@@ -530,18 +919,69 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/eric-rukebesha",
       "linkedin_username": "eric-rukebesha",
+      "twitter": "EricRukebesha",
+      "interests": ["technology", "agriculture", "entrepreneurship"],
+      "message_count": 12,
+      "first_seen": "1/2/26 10:58:47",
       "introduction": "Greetings everyone here and happy new year!                                                                                                                                   \nI am Eric RUKEBESHA from Rwanda, based in Morocco. I'm an Agriprenuer and Agribusiness Consultant. I am excited to be here with all of you and looking forward to starting the fellowship together. Feel free to connect with me on LinkedIn:\nhttps://www.linkedin.com/in/eric-rukebesha/  and X https://x.com/EricRukebesha"
+    },
+    {
+      "display_name": "Edmund Bradley",
+      "country": "Uganda",
+      "linkedin_url": "https://www.linkedin.com/in/edmond-bradley-ogwal-099aa7253",
+      "linkedin_username": "edmond-bradley-ogwal-099aa7253",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/3/26 12:09:18",
+      "introduction": "Hello everyone am Edmond Bradley OGWAL from Uganda nice to meet you all and looking forward to a lot of engagements with us all here is my profile we can connect all www.linkedin.com/in/edmond-bradley-ogwal-099aa7253"
+    },
+    {
+      "display_name": "Egide⚡",
+      "country": "Rwanda",
+      "linkedin_url": "https://www.linkedin.com/in/nkurunziza-egide-39204b30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "nkurunziza-egide-39204b30b",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 12:57:10",
+      "introduction": "https://www.linkedin.com/in/nkurunziza-egide-39204b30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nHello dear fellow, my name is NKURUNZIZA EGIDE from Rwanda, it's a pleasure to be with you, let's connect."
+    },
+    {
+      "display_name": "Eldrige",
+      "real_name": "Eldrige",
+      "country": "Cameroon",
+      "linkedin_url": "https://linkedin.com/in/apoh-eldrige",
+      "linkedin_username": "apoh-eldrige",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 5,
+      "first_seen": "1/3/26 10:31:15",
+      "introduction": "Hey everyone, I am Eldrige from Cameroon 🇨🇲\nCo-Founder at CheckMe ( https://checkme-app.com )\nLet us connect here ( https://linkedin.com/in/apoh-eldrige )\nAlso here is a little website with some of our details ( I was overwhelmed with the messages )"
+    },
+    {
+      "display_name": "Ifunanyachukwu<3",
+      "real_name": "Stephanie Ugochukwu",
+      "country": "Nigeria",
+      "linkedin_url": "https://www.linkedin.com/in/stephanie-ugochukwu-833184306",
+      "linkedin_username": "stephanie-ugochukwu-833184306",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 18,
+      "first_seen": "1/3/26 10:31:15",
+      "introduction": "Hi everyone! I’m Stephanie from Nigeria ��, and I’m truly excited and honored to be part of this community. I look forward to learning, growing, and connecting with so many brilliant minds here!"
     },
     {
       "display_name": "Elias M.",
       "real_name": "Elias Kasereka",
       "country": "DR Congo",
+      "interests": ["technology", "social_impact"],
+      "message_count": 4,
+      "first_seen": "1/2/26 17:06:27",
       "introduction": "Hi evry one, I'm Elias Kasereka From DR Congo , \nGreetings to you all dear fellows ‎<This message was edited>"
     },
     {
       "display_name": "Elisabeth",
       "real_name": "Alpha Lopma",
       "country": "Cameroon",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:02:53",
       "introduction": "Hi every one nice to meet you all.\ni'm Alpha Lopma  from Cameroon"
     },
     {
@@ -550,11 +990,17 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/emmanuel-nyirimanzi-94359438a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apphttps://www.linkedin.com/in/emmanuel-nyirimanzi-94359438a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "emmanuel-nyirimanzi-94359438a",
+      "interests": ["technology", "media"],
+      "message_count": 7,
+      "first_seen": "1/2/26 11:31:59",
       "introduction": "Hello guys!! Happy new year 🎉🥳 As we enjoy the  beginning of this amazing journey (JLMC fellowship)with you guys. I'm Emmanuel from Rwanda 🇷🇼🇷🇼. For more, join me on my LinkedIn platform https://www.linkedin.com/in/emmanuel-nyirimanzi-94359438a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Emmanuel Thee Light 🌟",
       "country": "Nigeria",
+      "interests": ["technology"],
+      "message_count": 8,
+      "first_seen": "1/2/26 19:18:55",
       "introduction": "That is correct, I’ve been reading the chats and I haven’t seen anyone say they from Nigeria 🥲"
     },
     {
@@ -562,6 +1008,8 @@
       "country": "Zambia",
       "linkedin_url": "http://linkedin.com/in/komani-sinyinza",
       "linkedin_username": "komani-sinyinza",
+      "message_count": 1,
+      "first_seen": "1/2/26 13:08:56",
       "introduction": "Hello,\nKomani here, from Zambia 🇿🇲\nLet’s connect on LinkedIn: http://linkedin.com/in/komani-sinyinza"
     },
     {
@@ -569,12 +1017,17 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/silvia-njeri-85b759357",
       "linkedin_username": "silvia-njeri-85b759357",
+      "interests": ["technology"],
+      "message_count": 9,
+      "first_seen": "1/2/26 10:43:56",
       "introduction": "https://future-fs-01-one-alpha.vercel.app/\nHello everyone am Silvia Njeri from Kenya I am looking forward to connect with you guys,\nHere is my linkedin profile..https://www.linkedin.com/in/silvia-njeri-85b759357/"
     },
     {
       "display_name": "Engneer  🇹🇿",
       "real_name": "Lyda Oseno",
       "country": "Tanzania",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:20:24",
       "introduction": "Hi Everyone,\nI'm Lyda Oseno from Tanzania 🇹🇿"
     },
     {
@@ -583,19 +1036,39 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/justus-kipkogei-rotich-b8aba8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "justus-kipkogei-rotich-b8aba8285",
+      "interests": ["technology", "media"],
+      "message_count": 30,
+      "first_seen": "1/2/26 12:08:53",
       "introduction": "Hi all , I am Justus from Kenya.\nLet's connect via LinkedIn\nhttps://www.linkedin.com/in/justus-kipkogei-rotich-b8aba8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      "display_name": "Faustin KAGIRANEZA"
+      "display_name": "F3rd",
+      "country": "Kenya",
+      "linkedin_url": "https://www.linkedin.com/in/ferdynand-odhiambo",
+      "linkedin_username": "ferdynand-odhiambo",
+      "interests": ["technology", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/3/26 11:56:09",
+      "introduction": "Hello everyone. Ferdinand from Kenya, glad being part of this community.\nHere's my linkedin, open for connections:\nhttps://www.linkedin.com/in/ferdynand-odhiambo/\nThanks"
+    },
+    {
+      "display_name": "Faustin KAGIRANEZA",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:28:30"
     },
     {
       "display_name": "Fayiah Tengbeh 🇱🇷",
       "linkedin_url": "https://www.linkedin.com/in/fayiah-tengbeh-0aa242224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "fayiah-tengbeh-0aa242224",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 11:54:13",
       "introduction": "Greetings from Liberia 🇱🇷 \nI'm grateful to be here\nLet connect 💪\nhttps://www.linkedin.com/in/fayiah-tengbeh-0aa242224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nhttps://www.facebook.com/share/1DDMvGw3Tv/"
     },
     {
-      "display_name": "FEINALDO"
+      "display_name": "FEINALDO",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:21:56"
     },
     {
       "display_name": "Feli Ciah ❤️",
@@ -603,6 +1076,9 @@
       "country": "Botswana",
       "linkedin_url": "https://www.linkedin.com/in/bophelo-felicia-mooketsi-666323242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "bophelo-felicia-mooketsi-666323242",
+      "interests": ["technology", "education", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 14:59:20",
       "introduction": "Hello everyone 👋🏽\nMy name is Bophelo Felicia Mooketsi from Botswana 🇧🇼\nI’m excited to be part of this journey and looking forward to learning and connecting with you all!\nhttps://www.linkedin.com/in/bophelo-felicia-mooketsi-666323242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
@@ -610,23 +1086,54 @@
       "real_name": "Feven",
       "linkedin_url": "https://www.linkedin.com/in/feventadele24",
       "linkedin_username": "feventadele24",
+      "interests": ["health", "technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:37:43",
       "introduction": "Hello , I am Feven from 🇪🇹. I am in to health tech , medical devices and photography. let's connect        www.linkedin.com/in/feventadele24"
     },
     {
       "display_name": "FiziOne tek (Fz1 Tek)",
       "country": "Kenya",
+      "city": "Kakuma",
       "linkedin_url": "https://www.linkedin.com/in/mtendechi-emmanuel-194298314",
       "linkedin_username": "mtendechi-emmanuel-194298314",
+      "interests": [
+        "technology",
+        "education",
+        "energy",
+        "social_impact",
+        "entrepreneurship"
+      ],
+      "message_count": 11,
+      "first_seen": "1/2/26 10:29:08",
       "introduction": "Hello, I'm Emmanuel Mtendechi a Congolese Living in kakuma refugee camp Kenya 🇰🇪\nhttps://www.linkedin.com/in/mtendechi-emmanuel-194298314\nI'm the Founder of FiziOne tek a community-based organization located in kakuma refugee camp\nhttps://www.linkedin.com/company/fizione-tek/\nFiziOne tek is a youth-led Community-Based Organization based in Kakuma Refugee Camp, dedicated to empowering refugees, young women, young men, and marginalized groups through digital skills, English literacy, and technolog"
     },
     {
-      "display_name": "Fornah-Official"
+      "display_name": "Fornah-Official",
+      "country": "Sierra Leone",
+      "city": "Blantyre",
+      "university": "Last year I was doing a course in paediatric tropical medicine with MSF and Kamazu university",
+      "interests": ["technology", "entrepreneurship", "health"],
+      "message_count": 18,
+      "first_seen": "1/2/26 21:28:29"
+    },
+    {
+      "display_name": "Fornah-Official",
+      "country": "Sierra Leone",
+      "city": "Blantyre",
+      "university": "Last year I was doing a course in paediatric tropical medicine with MSF and Kamazu university",
+      "interests": ["technology", "entrepreneurship", "health"],
+      "message_count": 18,
+      "first_seen": "1/2/26 21:28:29"
     },
     {
       "display_name": "Fortunate Olifant",
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/fortunate-olifant-b52bbb131",
       "linkedin_username": "fortunate-olifant-b52bbb131",
+      "interests": ["technology", "education"],
+      "message_count": 1,
+      "first_seen": "1/2/26 20:52:46",
       "introduction": "Hi Everyone, Fortunate here from South Africa. Looking forward to connecting and learning more with likeminded individuals.\nhttps://www.linkedin.com/in/fortunate-olifant-b52bbb131"
     },
     {
@@ -634,22 +1141,34 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/francis-g-maina",
       "linkedin_username": "francis-g-maina",
+      "interests": ["technology", "environment", "entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/3/26 04:14:05",
       "introduction": "https://www.linkedin.com/in/francis-g-maina \nHello everyone,\nFrancis Maina here from Kenya and I'm really looking forward to interacting and building connections with you, my fellow entrepreneurs.\nI'm in the craft space myself, permaculture - green building and agroecology, and also very passionate about art(everything it entails basically) and woodworking.\nLet's connect!"
     },
     {
       "display_name": "Francis",
       "real_name": "Francis Njogu",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:57:20",
       "introduction": "Hi everyone. I am Francis Njogu from Kenya🇰🇪. I am glad be part of this fellowship and excited to connect with you all.."
     },
     {
       "display_name": "Fredrick",
       "linkedin_url": "https://www.linkedin.com/in/fredrick-nyoni-446560396?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "fredrick-nyoni-446560396"
+      "linkedin_username": "fredrick-nyoni-446560396",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 22:02:13"
     },
     {
       "display_name": "FRänKÇhësço🤹🏾‍♂️🧸",
-      "country": "Ethiopia"
+      "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 5,
+      "first_seen": "1/2/26 17:19:42"
     },
     {
       "display_name": "G Wangechi",
@@ -657,42 +1176,65 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/grace-wangechinyamu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "grace-wangechinyamu",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:49:33",
       "introduction": "Hello My name is Grace Wangechi from 🇰🇪 Kenya\nLovely to be here!\nLet’s connect: https://www.linkedin.com/in/grace-wangechinyamu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "Gang",
       "real_name": "Samuel",
       "country": "Malawi",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:26:29",
       "introduction": "Hi guys I'm Samuel from Malawi. I'm happy to learn with you all"
     },
     {
       "display_name": "Gatso🌱",
+      "country": "South Africa",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 09:30:25",
       "introduction": "Great opportunity, i received seed funding last year from this great platform. I advise to sign up."
     },
     {
       "display_name": "Gattang Dhiel",
       "real_name": "Gattang Dhiel",
       "country": "South Sudan",
+      "city": "Bentiu",
+      "interests": ["technology", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:31:18",
       "introduction": "Greetings to one and all,\nMy name is Gattang Dhiel from Bentiu, South Sudan. I am pleased to be part of this great community of innovators.  I look forward to engaging with you all. Thanks"
     },
     {
       "display_name": "Gatwech K. Chuol",
       "real_name": "Gatwech Kueth",
       "country": "South Sudan",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:18:47",
       "introduction": "Hello,\nI'm Gatwech Kueth from South Sudan."
     },
     {
       "display_name": "georgesawasawa22",
       "real_name": "George Sawasawa",
       "country": "Malawi",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:24:11",
       "introduction": "Hie everyone I'm George Sawasawa from Malawi I eager to learn with you all"
     },
     {
       "display_name": "Get Ready For Impact",
       "real_name": "Anthony",
       "country": "Uganda",
+      "city": "Nairobi",
       "linkedin_url": "https://www.linkedin.com/in/anthony-munguriek-942497259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "anthony-munguriek-942497259",
+      "interests": ["technology", "media", "entrepreneurship"],
+      "message_count": 45,
+      "first_seen": "1/2/26 10:33:54",
       "introduction": "Hello everyone, congratulations 🎊🎉 . I am Anthony from Uganda and I hope we shall have a wonderful experience together this year. \nLet’s connect\nhttps://www.linkedin.com/in/anthony-munguriek-942497259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
@@ -701,6 +1243,9 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/gilian-mboga-475477349",
       "linkedin_username": "gilian-mboga-475477349",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 4,
+      "first_seen": "1/2/26 10:45:27",
       "introduction": "Hello everyone and happy new year!\nI am Gilian Mboga from Kenya, an entrepreneur and accounting student. I am excited to be here with all of you and looking forward to starting the fellowship. Feel free to connect with me on LinkedIn:\nhttps://www.linkedin.com/in/gilian-mboga-475477349"
     },
     {
@@ -709,26 +1254,34 @@
       "country": "DR Congo",
       "linkedin_url": "https://www.linkedin.com/in/glody-kumisa-engboko?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "glody-kumisa-engboko",
+      "interests": ["technology", "social_impact", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:02:50",
       "introduction": "Hallo guys , I'm Glody Kumisa from Drc Congo \nHappy to connect and share with you."
     },
     {
       "display_name": "Glory C",
       "real_name": "Glory",
       "country": "Malawi",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:32:53",
       "introduction": "Hie everyone\nIm Glory from Malawi\nHappy to be here with you all"
     },
     {
       "display_name": "Glory Rugemalila",
       "real_name": "Glory Rugemalila",
       "country": "Tanzania",
+      "message_count": 5,
+      "first_seen": "1/2/26 20:06:52",
       "introduction": "Hello Everyone,\nMy name is Glory Rugemalila. I am from Tanzania 🇹🇿"
-    },
-    {
-      "display_name": "God Done Miracles"
     },
     {
       "display_name": "Green Resource Management Enterprise",
       "country": "Ethiopia",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 8,
+      "first_seen": "1/3/26 00:13:57",
       "introduction": "Mingle with different cultures from different parts of Africa, it enhances relationship building skills in entrepreneurship, introvert vs extrovert mapping🤣"
     },
     {
@@ -737,31 +1290,46 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/halefom-ngus-abrha-b02512330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "halefom-ngus-abrha-b02512330",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 08:49:17",
       "introduction": "I am Halefom from from Ethiopia🇪🇹.\nLet's connect\nhttps://www.linkedin.com/in/halefom-ngus-abrha-b02512330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Hambessa Bati Gemechu",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:47:09",
       "introduction": "Hi This is Hambessa from Ethiopia, Happy new Year"
     },
     {
       "display_name": "Hanna Belachew",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:47:58",
       "introduction": "Heyy if Hanna from Ethiopia"
     },
     {
       "display_name": "Happy",
       "real_name": "Teta",
       "country": "Rwanda",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:21:05",
       "introduction": "Hello,\nMy name is Happy Teta and from Rwanda 🇷🇼 So happy to share this space with you all"
     },
     {
-      "display_name": "Hassan Kwalenga"
+      "display_name": "Hassan Kwalenga",
+      "message_count": 1,
+      "first_seen": "1/2/26 20:23:56"
     },
     {
       "display_name": "Hilda",
       "real_name": "Hilda Kisonok",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 19:31:54",
       "introduction": "Hello\nI'm Hilda Kisonok from Kenya. I'm excited to be here"
     },
     {
@@ -770,33 +1338,51 @@
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/suzan-paledi-524aba18b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "suzan-paledi-524aba18b",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 14:34:58",
       "introduction": "https://www.linkedin.com/in/suzan-paledi-524aba18b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\n- hello 👋🏽 I'm Suzan Paledi from South Africa.lets    connect and follow each other.🇿🇦🇿🇦"
     },
     {
-      "display_name": "hpsonjera"
+      "display_name": "hpsonjera",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:27:42"
     },
     {
-      "display_name": "Hussein Oraby"
+      "display_name": "Hussein Oraby",
+      "message_count": 1,
+      "first_seen": "1/2/26 21:02:33"
     },
     {
       "display_name": "I.",
       "linkedin_url": "https://www.linkedin.com/in/igiraneza-eliphaz-5912222b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "igiraneza-eliphaz-5912222b9"
+      "linkedin_username": "igiraneza-eliphaz-5912222b9",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:15:14"
     },
     {
       "display_name": "Ian Aluda",
       "country": "Nigeria",
+      "interests": ["technology"],
+      "message_count": 14,
+      "first_seen": "1/2/26 16:30:34",
       "introduction": "Hello Vincent 👋 nice to meet you"
     },
     {
       "display_name": "IB. Benitha🤍",
       "linkedin_url": "https://www.linkedin.com/in/ibyimanikora-benitha-568209369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "ibyimanikora-benitha-568209369"
+      "linkedin_username": "ibyimanikora-benitha-568209369",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:25:27"
     },
     {
       "display_name": "Ibnu Ali",
       "real_name": "Nefisa",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:30:32",
       "introduction": "Hello everyone \nI'm Nefisa from Ethiopia 🇪🇹"
     },
     {
@@ -805,10 +1391,17 @@
       "country": "Sierra Leone",
       "linkedin_url": "https://www.linkedin.com/in/ibrahim-josiah-2843192a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "ibrahim-josiah-2843192a6",
+      "university": "Njala University",
+      "interests": ["technology", "entrepreneurship", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 09:40:27",
       "introduction": "Warm greetings, fellow entrepreneurs, Ibrahim Brima Josiah from Njala University Sierra Leone ."
     },
     {
       "display_name": "Ico",
+      "interests": ["technology"],
+      "message_count": 4,
+      "first_seen": "1/2/26 09:23:58",
       "introduction": "I think it’s better to take the utmost of benefit from This group. by the way I suggest sending any other opportunities( fellowship, scholarship…), website to learn something new if you have. \nI’ll send you one useful website to learn and get certificate freely."
     },
     {
@@ -816,6 +1409,9 @@
       "country": "Nigeria",
       "linkedin_url": "https://www.linkedin.com/in/stephanie-ugochukwu-833184306",
       "linkedin_username": "stephanie-ugochukwu-833184306",
+      "interests": ["technology", "education", "social_impact"],
+      "message_count": 18,
+      "first_seen": "1/2/26 10:39:31",
       "introduction": "Hi everyone! I’m Stephanie from Nigeria 🇳🇬, and I’m truly excited and honored to be part of this community. I look forward to learning, growing, and connecting with so many brilliant minds here!"
     },
     {
@@ -824,6 +1420,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/imfura-potato-biscuits-ltd-271811252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "imfura-potato-biscuits-ltd-271811252",
+      "interests": ["technology", "media"],
+      "message_count": 4,
+      "first_seen": "1/2/26 15:24:44",
       "introduction": "Hello I'm Iraguha Mugisha Cyili Angelo From Rwanda."
     },
     {
@@ -832,6 +1431,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/irahoza-evelyne-niyigena-617b53314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6ogQxABMQeuV5JiSqPgdkw%3D%3D",
       "linkedin_username": "irahoza-evelyne-niyigena-617b53314",
+      "interests": ["technology", "agriculture", "entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:45:38",
       "introduction": "I am Evelyne from Rwanda, currently residing in Morocco, pursuing Masters degree in Agribusiness Innovation. Can't wait to collaborate and connect with you all! \nWe can connect via my LinkedIn below\nhttps://www.linkedin.com/in/irahoza-evelyne-niyigena-617b53314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6ogQxABMQeuV5JiSqPgdkw%3D%3D"
     },
     {
@@ -840,16 +1442,24 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/ishara-joseph-7b9658375",
       "linkedin_username": "ishara-joseph-7b9658375",
+      "interests": ["technology", "social_impact", "entrepreneurship"],
+      "message_count": 18,
+      "first_seen": "1/2/26 09:22:17",
       "introduction": "www.linkedin.com/in/ishara-joseph-7b9658375\nHi, I am Ishara Joseph from Kenya. Nice to meet you all. Let's connect🤝"
     },
     {
-      "display_name": "it doesn't matter"
+      "display_name": "it doesn't matter",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:14:10"
     },
     {
       "display_name": "Iæn",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/mugabi-ian-brian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "mugabi-ian-brian",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:45:10",
       "introduction": "From UGANDA, Happy to network with you all, let's Connect Colleagues.\nhttps://www.linkedin.com/in/mugabi-ian-brian?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -857,18 +1467,27 @@
       "country": "Cameroon",
       "linkedin_url": "https://www.linkedin.com/in/afopezi-jerry-89309a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "afopezi-jerry-89309a296",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 19:23:30",
       "introduction": "I am Afopezi Jerry, Cameroonian 🇨🇲. \n*HAPPY NEW YEAR 2026.* I'm glad to be here. Let's link up 🙏\nhttps://www.linkedin.com/in/afopezi-jerry-89309a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Jackie",
       "real_name": "Jackline Adhiambo",
       "country": "Kenya",
+      "city": "Nairobi",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 14:50:46",
       "introduction": "Hello everyone,I'm Jackline Adhiambo from Nairobi Kenya, happy to be here, can't wait to connect to y'all. Happy New year 🥳😊"
     },
     {
       "display_name": "Jalal",
       "real_name": "Jalal Khamis",
       "country": "Sudan",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:54:54",
       "introduction": "Hi guys, I am Jalal Khamis from Sudan"
     },
     {
@@ -877,6 +1496,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/jean-berckimas-ndayisenga-452148353",
       "linkedin_username": "jean-berckimas-ndayisenga-452148353",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:31:21",
       "introduction": "Hi there, I am Jean Berckimas from Rwanda 🇷🇼, I am happy to be with you here,\nLet's connect and learn more on LinkedIn page: https://www.linkedin.com/in/jean-berckimas-ndayisenga-452148353/"
     },
     {
@@ -884,11 +1506,16 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/jeanne-d-arc-ishimwe-70371a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "jeanne-d-arc-ishimwe-70371a253",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:10:14",
       "introduction": "Hi everyone, I’m Jeanne from Rwanda. It’s pleasure to be here with you 😇.\nhttps://www.linkedin.com/in/jeanne-d-arc-ishimwe-70371a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "Jesus Cares🎊🎊",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:33:21",
       "introduction": "Hello everyone, nice meeting you all here🤗\nAm Holiver Aneno from Uganda 🇩🇪"
     },
     {
@@ -896,12 +1523,17 @@
       "country": "Uganda",
       "linkedin_url": "http://linkedin.com/in/kabahumuza-joan-753a22237",
       "linkedin_username": "kabahumuza-joan-753a22237",
+      "interests": ["technology", "environment"],
+      "message_count": 37,
+      "first_seen": "1/2/26 17:46:56",
       "introduction": "Good start, I think I should I also start collecting my people from Uganda 🇺🇬 😂😂😂"
     },
     {
       "display_name": "John",
       "real_name": "John Mathiang",
       "country": "South Sudan",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:22:56",
       "introduction": "Hello everyone,\nMy name is John Mathiang from South Sudan . Glad to meet y'all and looking forward to a great experience from this property programme."
     },
     {
@@ -909,6 +1541,9 @@
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/john-mwaungulu",
       "linkedin_username": "john-mwaungulu",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:42:03",
       "introduction": "John Aubrey Mwaungulu from Malawi.\nLooking forward to connecting with you guys\nhttps://www.linkedin.com/in/john-mwaungulu"
     },
     {
@@ -917,12 +1552,29 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/moses-jok-kuol-aluong-28b74b1a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "moses-jok-kuol-aluong-28b74b1a9",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 22:09:06",
       "introduction": "Greetings everyone & happy new year 2026. Good connecting with y’all. I am Jok from South Sudan, currently based in Uganda. \nhttps://www.linkedin.com/in/moses-jok-kuol-aluong-28b74b1a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    },
+    {
+      "display_name": "Jonathan METRE",
+      "real_name": "Jonathan Metre",
+      "country": "DR Congo",
+      "linkedin_url": "https://www.linkedin.com/in/jonathan-metre-852074256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "jonathan-metre-852074256",
+      "interests": ["technology", "media", "social_impact"],
+      "message_count": 3,
+      "first_seen": "1/3/26 10:46:49",
+      "introduction": "Hello everyone \nI hope you are all doing well\nI am Jonathan Metre from the Democratic Republic of Congo\nNice to meet you\nhttps://www.linkedin.com/in/jonathan-metre-852074256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Judy",
       "real_name": "yodit",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 20:11:18",
       "introduction": "He everyone I am yodit from Ethiopia"
     },
     {
@@ -931,6 +1583,9 @@
       "country": "Cameroon",
       "linkedin_url": "https://www.linkedin.com/in/boumal-juste-kevin-01b40b26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "boumal-juste-kevin-01b40b26b",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 08:25:53",
       "introduction": "I am Juste Kevin from Cameroon 🇨🇲. Let’s connect \nhttps://www.linkedin.com/in/boumal-juste-kevin-01b40b26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
@@ -939,68 +1594,123 @@
       "country": "Zambia",
       "linkedin_url": "https://www.linkedin.com/in/simon-kacha-126a52258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "simon-kacha-126a52258",
+      "university": "my name is Simon Kacha Mbchb Student Mulungushi University",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 00:28:02",
       "introduction": "Good morning everyone, my name is Simon Kacha Mbchb Student Mulungushi University Zambia .🇿🇲🇿🇲🇿🇲 \nLink me using the link below\nhttps://www.linkedin.com/in/simon-kacha-126a52258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Kal",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:47:07",
       "introduction": "Hello everyone.\nI am from Ethiopia. We already celebrated new year, but Happy New year to all."
     },
     {
       "display_name": "Kalimbiro",
       "real_name": "Bertin Kalimbiro",
       "country": "DR Congo",
+      "city": "Goma",
+      "interests": ["social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:40:01",
       "introduction": "Hi all! \nCall me Bertin Kalimbiro\nI’m from Goma/ DR Congo 🇨🇩"
     },
     {
       "display_name": "Kalkidan Sirak",
       "linkedin_url": "https://www.linkedin.com/in/kalkidan-sirak-43936b207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "kalkidan-sirak-43936b207",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 16:04:20",
       "introduction": "Hello every one lets connect in linkedin\nhttps://www.linkedin.com/in/kalkidan-sirak-43936b207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "KALLANI",
       "linkedin_url": "https://www.linkedin.com/in/adam-moussa-kallani-644893196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "adam-moussa-kallani-644893196",
+      "interests": [
+        "technology",
+        "education",
+        "energy",
+        "media",
+        "social_impact",
+        "entrepreneurship"
+      ],
+      "message_count": 2,
+      "first_seen": "1/3/26 00:04:59",
       "introduction": "Hello everyone 👋\nI’m Adam from 🇹🇩 , founder of PIRA LAB Consulting.\nI work in education, digital innovation, and entrepreneurship, with a focus on youth empowerment and social impact.\nHappy to join the JLMCF community and looking forward to learning, sharing, and connecting with you all 😊\nhttps://www.linkedin.com/in/adam-moussa-kallani-644893196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Kamando Kabando",
+      "interests": ["technology", "environment", "social_impact"],
+      "message_count": 11,
+      "first_seen": "1/2/26 12:29:50",
       "introduction": "Weeh 😂😂us from Singapore 254 we shall see wonders"
     },
     {
-      "display_name": "Kamau"
+      "display_name": "Kamau",
+      "real_name": "Simon",
+      "country": "Kenya",
+      "message_count": 2,
+      "first_seen": "1/2/26 17:58:24",
+      "introduction": "Hello, I'm Simon from Kenya, glad to meet you all."
     },
     {
       "display_name": "Kamo",
       "country": "Botswana",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 11:29:09",
       "introduction": "Hello everyone, and Happy New Year! 🥳\nI’m Kamogelo Mannathoko from Botswana.\nReally happy to be here and looking forward to connecting with you all."
     },
     {
       "display_name": "Kato The Kreator",
       "country": "Zambia",
+      "message_count": 2,
+      "first_seen": "1/2/26 14:24:01",
       "introduction": "Hey melody Steve from zambia here"
     },
     {
       "display_name": "KEEP A 😃 😊 😀 ON YOUR F",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:41:13",
       "introduction": "HELLO FAM \nHAPPY NEW YEAR TO YOU\nELIJAH FROM UGANDA"
     },
     {
       "display_name": "Keith",
       "country": "DR Congo",
       "linkedin_url": "https://www.linkedin.com/in/keith-travis-phiri-namalepeta-60a41b190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "keith-travis-phiri-namalepeta-60a41b190"
+      "linkedin_username": "keith-travis-phiri-namalepeta-60a41b190",
+      "interests": ["technology", "media", "social_impact"],
+      "message_count": 33,
+      "first_seen": "1/2/26 20:14:53"
     },
     {
       "display_name": "Kejinghe Charles Abang",
-      "country": "Ethiopia"
+      "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:58:04"
     },
     {
       "display_name": "Keraj Girma",
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/kerajgirma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "kerajgirma"
+      "linkedin_username": "kerajgirma",
+      "university": "i am available outside of the school",
+      "interests": ["technology", "media", "education"],
+      "message_count": 10,
+      "first_seen": "1/2/26 09:11:49"
+    },
+    {
+      "display_name": "Kevin IRAGUHA",
+      "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/3/26 16:28:39"
     },
     {
       "display_name": "KIBET",
@@ -1008,93 +1718,151 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/kibetdidymus",
       "linkedin_username": "kibetdidymus",
+      "university": "High expectations for Naija college",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 12:03:26",
       "introduction": "Happy 2026 folks!\nI am Kibet Ruto from Kenya, let's make this experience memorable.\nhttps://www.linkedin.com/in/kibetdidymus ‎<This message was edited>"
     },
     {
-      "display_name": "Kidi"
+      "display_name": "Kidi",
+      "message_count": 1,
+      "first_seen": "1/2/26 18:06:21"
     },
     {
-      "display_name": "Kisakye Derrick"
+      "display_name": "Kisakye Derrick",
+      "message_count": 3,
+      "first_seen": "1/2/26 22:12:33"
     },
     {
       "display_name": "Kj",
       "real_name": "James",
       "country": "Uganda",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:36:35",
       "introduction": "Hello, I'm James from Uganda, looking forward to connect with everyone here"
     },
     {
-      "display_name": "KleinPerfumes"
+      "display_name": "KleinPerfumes",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:15:02"
     },
     {
       "display_name": "Kuka 🌚",
       "country": "Ethiopia",
+      "interests": ["technology", "environment"],
+      "message_count": 18,
+      "first_seen": "1/2/26 12:29:29",
       "introduction": "I’m sure I will learn alot from you guys"
+    },
+    {
+      "display_name": "Lagu Benson MOJA",
+      "message_count": 1,
+      "first_seen": "1/3/26 11:53:21"
     },
     {
       "display_name": "Landlord ",
       "country": "Malawi",
+      "message_count": 12,
+      "first_seen": "1/2/26 17:25:25",
       "introduction": "✅✅✅\nPlease anyone from MALAWI 🇲🇼 DM ASAP ."
     },
     {
-      "display_name": "Langa"
+      "display_name": "Langa",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:32:25"
     },
     {
       "display_name": "Lawrance AR",
       "real_name": "Lawrance Sam",
       "country": "Botswana",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:04:26",
       "introduction": "Good day Ladies and Gentlemen.Its A pleasure to be in a group with like minded individuals.\nI am Lawrance Sam from Botswana 🇧🇼"
+    },
+    {
+      "display_name": "Leo",
+      "real_name": "Leo",
+      "country": "Uganda",
+      "interests": ["technology", "agriculture", "entrepreneurship"],
+      "message_count": 2,
+      "first_seen": "1/3/26 11:06:57",
+      "introduction": "Hello everyone, My name is Leo from Uganda. I am the founder and CEO of Saleo Agriventure Ltd. I am glad to connect with you all."
     },
     {
       "display_name": "Lidet",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 15,
+      "first_seen": "1/2/26 14:39:17",
       "introduction": "Hello there, i am also from AAU"
     },
     {
       "display_name": "Lisan",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:54:17",
       "introduction": "Lisanwork mikiyas from ethiopia 🇪🇹"
     },
     {
       "display_name": "Liv",
       "country": "Rwanda",
+      "city": "Lome",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 45,
+      "first_seen": "1/2/26 21:20:03",
       "introduction": "Hello fellows am Olive from Rwanda I am glad to be here can't wait to learn from y'all and connect...... 😘"
     },
     {
       "display_name": "Liv🥰🥰",
       "real_name": "Olivia Nakayima",
       "country": "Uganda",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/2/26 19:26:00",
       "introduction": "Hello everyone 🙏My name is Olivia Nakayima and I am from Uganda. Am really happy to be here and looking forward to more interactions with my fellow entrepreneurs."
     },
     {
       "display_name": "liz",
       "country": "Kenya",
       "linkedin_url": "https://ke.linkedin.com/in/elizabeth-gitahi-3b5886310",
-      "linkedin_username": "elizabeth-gitahi-3b5886310"
+      "linkedin_username": "elizabeth-gitahi-3b5886310",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 18:35:57"
     },
     {
       "display_name": "Love Never Fails🌸",
       "country": "Benin",
       "linkedin_url": "https://www.linkedin.com/in/odjohoundé-salomon-atchoba-6635b01a2",
       "linkedin_username": "odjohoundé-salomon-atchoba-6635b01a2",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:23:06",
       "introduction": "Hello,\nSalomon ATCHOBA from Benin\nwww.linkedin.com/in/odjohoundé-salomon-atchoba-6635b01a2"
     },
     {
       "display_name": "Love, Love, and Love",
       "real_name": "Godfrey",
       "country": "Zimbabwe",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:21:28",
       "introduction": "Greetings to you all! I am Godfrey from Zimbabwe 🇿🇼"
     },
     {
-      "display_name": "LUÇKY DØN",
-      "country": "Zambia",
-      "linkedin_url": "https://www.linkedin.com/in/donald-mazole-6073602a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "donald-mazole-6073602a7",
-      "introduction": "Hello everyone 👋 \nI am DONALD from ZAMBIA.\nI am honored to be part of this community. Looking forward to learning and networking with you  💫✨"
+      "display_name": "Lungile S",
+      "interests": ["environment"],
+      "message_count": 1,
+      "first_seen": "1/3/26 12:33:46"
     },
     {
       "display_name": "Lynette🕷",
       "linkedin_url": "https://www.linkedin.com/in/mahlangu-simphiwe-lynette?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "linkedin_username": "mahlangu-simphiwe-lynette"
+      "linkedin_username": "mahlangu-simphiwe-lynette",
+      "interests": ["technology", "media", "entrepreneurship"],
+      "message_count": 15,
+      "first_seen": "1/2/26 20:21:44"
     },
     {
       "display_name": "Lyse Claudia🥳",
@@ -1102,50 +1870,85 @@
       "country": "Burundi",
       "linkedin_url": "https://www.linkedin.com/in/lyse-claudia-irera",
       "linkedin_username": "lyse-claudia-irera",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:20:33",
       "introduction": "https://www.linkedin.com/in/lyse-claudia-irera\nHi everyone,\nI'm Lyse Claudia from Burundi🇧🇮.\nHappy to be here."
     },
     {
-      "display_name": "M&T Tours and Travel LTD"
+      "display_name": "M&T Tours and Travel LTD",
+      "message_count": 4,
+      "first_seen": "1/2/26 21:34:19"
     },
     {
       "display_name": "M.Shyaka",
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/murwanashyaka-jean-d-amour-b5318739a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "murwanashyaka-jean-d-amour-b5318739a",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 17:26:32",
       "introduction": "Hello everyone here! I'm Jean D’Amour from Rwanda,  I'm excited to be here as follow let's connect my dear friends 😘https://www.linkedin.com/in/murwanashyaka-jean-d-amour-b5318739a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      "display_name": "Magah ju"
+      "display_name": "Magah ju",
+      "message_count": 3,
+      "first_seen": "1/2/26 20:45:47"
     },
     {
       "display_name": "Mahelet Kassahun",
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/mahelet-kassahun-5b439528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "mahelet-kassahun-5b439528b",
+      "interests": [
+        "technology",
+        "media",
+        "health",
+        "social_impact",
+        "environment"
+      ],
+      "message_count": 59,
+      "first_seen": "1/2/26 09:26:23",
       "introduction": "Hii miri, I really admire your country can u tell us more\nThis is mahelet from ethiopia"
     },
     {
       "display_name": "Makkan Fashions Aid",
       "linkedin_url": "https://www.linkedin.com/in/edith-cheruto-373624359/recent-activity/all",
-      "linkedin_username": "edith-cheruto-373624359"
+      "linkedin_username": "edith-cheruto-373624359",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 22:01:39"
     },
     {
-      "display_name": "Makmot Fred"
+      "display_name": "Makmot Fred",
+      "linkedin_url": "https://www.linkedin.com/in/makmot-fred-17aa36366",
+      "linkedin_username": "makmot-fred-17aa36366",
+      "interests": ["agriculture"],
+      "message_count": 2,
+      "first_seen": "1/3/26 09:23:00"
     },
     {
       "display_name": "Makuen-gak Makuet",
       "real_name": "Makuet John Matur",
       "country": "Kenya",
+      "interests": ["technology", "education"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:45:49",
       "introduction": "Hi everyone 👋, my name is Makuet John Matur, a South Sudanese currently living Kenya. I’m happy to be part of this group and I’m looking forward to learning, sharing ideas, and working together with you all. Thank you."
     },
     {
       "display_name": "Mama Myah",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 13:59:11",
       "introduction": "Hello, Auma Eunice joining from Uganda. Please to meet you all"
     },
     {
       "display_name": "Mamush",
       "country": "Ethiopia",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 8,
+      "first_seen": "1/2/26 11:17:49",
       "introduction": "Hi,\nMy Name is Mr. Mamush Yisihak Wana from Ethiopia.\nI have great pleasure in joining this unique groups to learn and share better experiences in entrepreneurship and innovation including another benefit  from fellowship program"
     },
     {
@@ -1153,67 +1956,136 @@
       "country": "Malawi",
       "linkedin_url": "https://mw.linkedin.com/in/maria-phiri-561617348?utm",
       "linkedin_username": "maria-phiri-561617348",
+      "message_count": 6,
+      "first_seen": "1/2/26 12:58:16",
       "introduction": "Hello everyone 👋,am Maria Phiri from Malawi"
     },
     {
-      "display_name": "Marie Zoe"
+      "display_name": "Marie",
+      "message_count": 1,
+      "first_seen": "1/3/26 16:01:44"
+    },
+    {
+      "display_name": "Marie Zoe",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:50:55"
     },
     {
       "display_name": "Martin Nanje",
+      "city": "Nairobi",
       "linkedin_url": "https://www.linkedin.com/in/martin-nanje-a88750198",
       "linkedin_username": "martin-nanje-a88750198",
+      "university": "Sisili Agritech Ltd and Lecturer at the University",
+      "interests": [
+        "technology",
+        "agriculture",
+        "energy",
+        "environment",
+        "entrepreneurship"
+      ],
+      "message_count": 1,
+      "first_seen": "1/2/26 13:33:00",
       "introduction": "Hi everyone 👋\nI’m Dr Martin Mang’eni Nanje, CEO & Founder at Sisili Agritech Ltd and Lecturer at the University of Nairobi. I work on smart agriculture, sustainable technologies, and renewable-powered mechanisation across Africa. I’m open to collaboration, consulting, and project partnerships in agritech, climate action, and sustainable innovation.\nLinkedIn: https://www.linkedin.com/in/martin-nanje-a88750198"
     },
     {
+      "display_name": "Mathew ALU",
+      "real_name": "Mathew",
+      "country": "Nigeria",
+      "linkedin_url": "https://rw.linkedin.com/in/avhiokhode-mathew",
+      "linkedin_username": "avhiokhode-mathew",
+      "interests": ["entrepreneurship"],
+      "message_count": 2,
+      "first_seen": "1/3/26 10:59:25",
+      "introduction": "Hi everyone, I am Mathew from Nigeria 🇳🇬 \nFounder at CareBridge\nLet us connect here ( https://rw.linkedin.com/in/avhiokhode-mathew )"
+    },
+    {
       "display_name": "Mathew Wuor Manyang",
-      "country": "South Sudan"
+      "country": "South Sudan",
+      "interests": ["technology", "education"],
+      "message_count": 4,
+      "first_seen": "1/2/26 14:47:26"
     },
     {
       "display_name": "Matthiüe",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/mayengo-john-matthew-b53376306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "mayengo-john-matthew-b53376306",
+      "interests": ["social_impact", "technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 21:23:10",
       "introduction": "Hello everyone, \nAm Mayengo John Matthew from Uganda.\nA research enthusiast by profession.  Glad to meet you all. 😌"
     },
     {
       "display_name": "Mawa Agri-Solutions",
       "linkedin_url": "https://www.linkedin.com/in/mary-wanza-3744a319a",
-      "linkedin_username": "mary-wanza-3744a319a"
+      "linkedin_username": "mary-wanza-3744a319a",
+      "interests": ["technology"],
+      "message_count": 7,
+      "first_seen": "1/2/26 21:40:17"
     },
     {
       "display_name": "Mayadda",
       "country": "Uganda",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:20:46",
       "introduction": "Hello, I'm mayadda adam, a Sudanese🇸🇩 living in uganda. i am happy to be here"
     },
     {
       "display_name": "Meab",
       "real_name": "Abraham Mekbib",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 19:04:50",
       "introduction": "Hello everyone one?, I am Abraham Mekbib from Ethiopia"
     },
     {
       "display_name": "Meghna Odylvie",
       "linkedin_url": "https://www.linkedin.com/in/meghna-odylvie-odisay-lengoanede-4544b3328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "meghna-odylvie-odisay-lengoanede-4544b3328"
+      "linkedin_username": "meghna-odylvie-odisay-lengoanede-4544b3328",
+      "interests": ["technology", "media", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:23:30"
     },
     {
       "display_name": "Michel 🦒",
       "country": "Rwanda",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 19:27:39",
       "introduction": "Hello I am IRADUKUNDA from Rwanda🇷🇼. I'm happy to be here with all of you guys."
+    },
+    {
+      "display_name": "MirandaK😊",
+      "real_name": "Miranda",
+      "country": "Malawi",
+      "linkedin_url": "https://www.linkedin.com/in/hopemirandakawalala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "hopemirandakawalala",
+      "interests": ["technology", "environment", "media", "entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/3/26 10:22:59",
+      "introduction": "Greetings, I am Miranda from Malawi. A tech sis, Marketing and Communications Specialist and also an environmentalist.\nFounder of *MK Digital Africa* and *EcoCycle Africa.*\nA pleasure to make your acquaintance.\nhttps://www.linkedin.com/in/hopemirandakawalala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Miri😍😍",
       "country": "Rwanda",
+      "interests": ["technology", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:26:54",
       "introduction": "Hi Everyone,\nI’m Mariam Niyigena from Rwanda 🇷🇼 of thousand hills. Happy to be part of this community.\nLooking forward to connect and learn from you all🤗"
     },
     {
       "display_name": "Miss introvert",
       "country": "Uganda",
+      "interests": ["technology", "social_impact"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:31:19",
       "introduction": "Hello everyone, am Birungi Hairat from Uganda.Am greatful to be part of this community"
     },
     {
       "display_name": "Monica Katusiime",
       "country": "Nigeria",
+      "message_count": 2,
+      "first_seen": "1/2/26 17:48:44",
       "introduction": "I haven’t seen anyone from Nigeria 🤔"
     },
     {
@@ -1221,27 +2093,57 @@
       "country": "Cameroon",
       "linkedin_url": "https://cm.linkedin.com/in/fransiska-bih-b9014023a",
       "linkedin_username": "fransiska-bih-b9014023a",
+      "message_count": 2,
+      "first_seen": "1/2/26 09:33:16",
       "introduction": "I’m Fransiska Bi \nFrom Cameroon\nLet’s connect\nCheck out Fransiska Bih’s profile on LinkedIn https://cm.linkedin.com/in/fransiska-bih-b9014023a"
     },
     {
       "display_name": "morrisakiba00",
       "linkedin_url": "https://www.linkedin.com/in/morris-kombe-a20680194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "morris-kombe-a20680194",
+      "interests": [
+        "technology",
+        "education",
+        "energy",
+        "environment",
+        "media"
+      ],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:05:00",
       "introduction": "Hello everyone 👋\nI’m Morris Komne, working in renewable energy and sustainability initiatives. Glad to be part of this group and looking forward to learning and collaborating.\nLet's connect\nhttps://www.linkedin.com/in/morris-kombe-a20680194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Moudassire AKE ✨💫",
       "real_name": "Moudachirou Segla AKE",
       "country": "Benin",
+      "linkedin_url": "https://www.linkedin.com/in/moudachirou-ake-627917289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "moudachirou-ake-627917289",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:27:15",
       "introduction": "Hello everyone! I am Moudachirou Segla AKE from Benin and I am so happy to be among you."
     },
     {
-      "display_name": "Mounsey Entreprise"
+      "display_name": "Mounsey Entreprise",
+      "linkedin_url": "https://www.linkedin.com/in/nickstone-omondi-76bb82207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "nickstone-omondi-76bb82207",
+      "interests": ["technology", "media"],
+      "message_count": 9,
+      "first_seen": "1/2/26 23:01:52"
+    },
+    {
+      "display_name": "mpha",
+      "country": "Malawi",
+      "message_count": 2,
+      "first_seen": "1/3/26 17:04:55",
+      "introduction": "Thank you where are you from, what's your morning, afternoon and evening greeting in your language"
     },
     {
       "display_name": "Mr  Lontchi",
       "real_name": "Lontchi Gildas",
       "country": "Cameroon",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:31:35",
       "introduction": "Hi 👋👋👋👋 everyone. Happy new year. \nI'm Lontchi Gildas from Cameroon"
     },
     {
@@ -1250,11 +2152,17 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/bereket-sisay-3250b8149?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "bereket-sisay-3250b8149",
+      "interests": ["technology", "media"],
+      "message_count": 7,
+      "first_seen": "1/2/26 12:16:00",
       "introduction": "Hello friends. I am Bereket from Ethiopia,land of the origins. Happy to meet you all. \nLet's connect on linkedin\nhttps://www.linkedin.com/in/bereket-sisay-3250b8149?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "MR. Dawit. A",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 10:22:43",
       "introduction": "Hello Chris\nDawit Alemzewd From Ethiopia. Happy to B here"
     },
     {
@@ -1262,11 +2170,17 @@
       "real_name": "Alie Mohammed Kamara",
       "linkedin_url": "https://www.linkedin.com/in/alie-mohammed-kamara-9879b7235",
       "linkedin_username": "alie-mohammed-kamara-9879b7235",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/3/26 01:16:33",
       "introduction": "Hello everyone, my name is Alie Mohammed Kamara from Liberia. It’s a pleasure to be here, and I look forward to the amazing memories we’ll build together as colleagues.\nLet’s connect 👇\nhttps://www.linkedin.com/in/alie-mohammed-kamara-9879b7235 ‎<This message was edited>"
     },
     {
       "display_name": "Ms Melody💞",
       "country": "Zambia",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:16:37",
       "introduction": "Hello everyone am Melody from Zambia.  Am super excited to meet  and connect with everyone here ☺️"
     },
     {
@@ -1274,22 +2188,34 @@
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/shalom-mtika-8513ab211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "shalom-mtika-8513ab211",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 07:57:05",
       "introduction": "Shalom Mtika from Malawi.\nLet's connect\nhttps://www.linkedin.com/in/shalom-mtika-8513ab211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "Muga",
       "real_name": "Brian",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 13:31:05",
       "introduction": "Good people,\nI am Brian from Kenya. Looking forward to engaging with you through this fellowship."
     },
     {
-      "display_name": "Mukhongo The II"
+      "display_name": "Mukhongo The II",
+      "country": "Kenya",
+      "message_count": 1,
+      "first_seen": "1/2/26 20:07:37"
     },
     {
       "display_name": "Munguzo",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/munguzo-jean?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       "linkedin_username": "munguzo-jean",
+      "interests": ["technology", "media", "social_impact"],
+      "message_count": 4,
+      "first_seen": "1/2/26 12:36:45",
       "introduction": "Hi, y'all \n*Munguzo* is my name.\nI am a Congolese 🇨🇩 but I live in Uganda.\nI am a pioneer of CAMPUS Digital Hub, a youth led organization dedicated to equipping youths and underserved communities through digital skills and innovation.\nI am glad to connect with you all\nhttps://www.linkedin.com/in/munguzo-jean?utm_source=share_via&utm_content=profile&utm_medium=member_android"
     },
     {
@@ -1297,6 +2223,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/murengezi-william-b94350235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "murengezi-william-b94350235",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:01:05",
       "introduction": "https://www.linkedin.com/in/murengezi-william-b94350235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app\nWilliam Murengezi from Rwanda 🇷🇼\nI am happy to be here. Let’s connect on LinkedIn"
     },
     {
@@ -1305,28 +2234,42 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/musau-immanuel-afrika-4a998121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "musau-immanuel-afrika-4a998121a",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 14:48:16",
       "introduction": "I am Immanuel from Uganda dealing in molecular diagnostics. I am humbled to be here. Kindly with me here in LinkedIn. \nhttps://www.linkedin.com/in/musau-immanuel-afrika-4a998121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Musiime",
       "country": "Uganda",
+      "interests": ["technology", "social_impact", "entrepreneurship"],
+      "message_count": 40,
+      "first_seen": "1/2/26 16:16:32",
       "introduction": "Meanwhile as you guys are agurging, I'm looking for a rwandase to marry.    🤣🤣 and I think this group will help me alot 🤣🤣"
     },
     {
       "display_name": "MUTAMBYI Enock",
       "linkedin_url": "https://www.linkedin.com/in/mutambyi-enock-2716ab360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "linkedin_username": "mutambyi-enock-2716ab360"
+      "linkedin_username": "mutambyi-enock-2716ab360",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 09:22:10"
     },
     {
       "display_name": "mwanamande1",
       "real_name": "Mwanaidi",
       "country": "Kenya",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:46:49",
       "introduction": "Hey everyone. Happy New Year. I'm Mwanaidi from Kenya. Founder of Abigael Sweet Fish...still in the making"
     },
     {
       "display_name": "Mwenenye",
       "real_name": "Mwenenye Joseph",
       "country": "Uganda",
+      "message_count": 2,
+      "first_seen": "1/2/26 14:09:31",
       "introduction": "Hello, I'm Mwenenye Joseph from Uganda"
     },
     {
@@ -1335,29 +2278,49 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/nagujja-julian-171791246?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       "linkedin_username": "nagujja-julian-171791246",
+      "interests": ["media", "technology"],
+      "message_count": 6,
+      "first_seen": "1/2/26 09:29:25",
       "introduction": "https://www.linkedin.com/in/nagujja-julian-171791246?utm_source=share_via&utm_content=profile&utm_medium=member_android \nHello everyone my name is Nagujja Julian from Uganda I am thrilled to be part of this amazing team#JMCF Fellowship looking forward to learn from you all...."
     },
     {
       "display_name": "Nanellah",
       "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/2/26 21:39:09",
       "introduction": "Hello am Noella from Rwanda, nice to meet you fellows"
     },
     {
       "display_name": "Nardos",
       "real_name": "Nardos",
       "country": "Ethiopia",
+      "linkedin_url": "https://www.linkedin.com/in/nardos-abraham-34a946219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "nardos-abraham-34a946219",
+      "interests": ["technology", "media"],
+      "message_count": 16,
+      "first_seen": "1/2/26 20:47:38",
       "introduction": "Helllooo Everyone nice to meet youu I am Nardos From Ethiopia 🇪🇹😊😊"
     },
     {
-      "display_name": "Natnael"
+      "display_name": "Natnael",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:39:10"
     },
     {
-      "display_name": "ngiruwonsang078900171"
+      "display_name": "ngiruwonsang078900171",
+      "interests": ["agriculture", "entrepreneurship", "technology"],
+      "message_count": 16,
+      "first_seen": "1/2/26 10:09:51"
     },
     {
       "display_name": "Nicole",
       "real_name": "Nicole Umutoni",
       "country": "Rwanda",
+      "university": "Rwanda Institute",
+      "interests": ["technology", "agriculture", "environment"],
+      "message_count": 1,
+      "first_seen": "1/2/26 21:10:28",
       "introduction": "Hello everyone 🤗 \nI'm Nicole Umutoni from Rwanda🇷🇼, Currently pursuing Conservation Agriculture in RICA(Rwanda Institute for Conservation Agriculture)\nI'm glad to be here."
     },
     {
@@ -1366,21 +2329,42 @@
       "country": "Ethiopia",
       "linkedin_url": "http://www.linkedin.com/in/nuredin-mohammed-077a88301",
       "linkedin_username": "nuredin-mohammed-077a88301",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:45:28",
       "introduction": "Hello everyone I am Nuredin from Ethiopia, I'd would happy to connect with you via LinkedIn \nhttp://www.linkedin.com/in/nuredin-mohammed-077a88301"
     },
     {
-      "display_name": "Nyawenda Jackson."
+      "display_name": "Nyawenda Jackson.",
+      "message_count": 1,
+      "first_seen": "1/2/26 18:36:18"
     },
     {
       "display_name": "Odille",
       "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/2/26 15:40:24",
       "introduction": "Hi, am Odille from Rwanda 🇷🇼, \nNice to meet you all"
     },
     {
       "display_name": "Ogo's Biosystem (U) Ltd",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/ronald-ogoola-79b688188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "ronald-ogoola-79b688188"
+      "linkedin_username": "ronald-ogoola-79b688188",
+      "interests": ["technology", "media", "health"],
+      "message_count": 6,
+      "first_seen": "1/2/26 12:33:00"
+    },
+    {
+      "display_name": "Online",
+      "real_name": "Roger",
+      "country": "Rwanda",
+      "linkedin_url": "https://www.linkedin.com/in/roger-biganiro-dukundane-b593a7369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "linkedin_username": "roger-biganiro-dukundane-b593a7369",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 13:07:43",
+      "introduction": "Hi there, I am Roger from Rwanda.  I am glad to be here, let's connect https://www.linkedin.com/in/roger-biganiro-dukundane-b593a7369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Orero",
@@ -1388,6 +2372,8 @@
       "country": "Kenya",
       "linkedin_url": "https://ke.linkedin.com/in/lydia-orero-1bab71131",
       "linkedin_username": "lydia-orero-1bab71131",
+      "message_count": 2,
+      "first_seen": "1/2/26 11:37:22",
       "introduction": "Hi y'all, I'm miss Orero from Kenya...Check out Lydia Orero’s profile on LinkedIn https://ke.linkedin.com/in/lydia-orero-1bab71131"
     },
     {
@@ -1395,6 +2381,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/yarecorp-empower-society-empower-rural-people-99a593298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "yarecorp-empower-society-empower-rural-people-99a593298",
+      "interests": ["technology", "energy", "environment", "media"],
+      "message_count": 1,
+      "first_seen": "1/3/26 09:01:50",
       "introduction": "Morning everyone am Oscar iradukunda from Rwanda it please To be here \nhttps://www.linkedin.com/in/yarecorp-empower-society-empower-rural-people-99a593298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1402,6 +2391,9 @@
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/mphatso-mwale-597389219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "mphatso-mwale-597389219",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 11:00:07",
       "introduction": "from Malawi ‎<This message was edited>"
     },
     {
@@ -1409,42 +2401,66 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/gihozo-patrick-883947305",
       "linkedin_username": "gihozo-patrick-883947305",
+      "university": "Makerere University",
+      "interests": ["technology"],
+      "message_count": 5,
+      "first_seen": "1/2/26 11:48:15",
       "introduction": "Good morning to you all . This is Gihozo Patrick from Rwanda, software engineering student at Makerere University. Let's connect.\nhttps://www.linkedin.com/in/gihozo-patrick-883947305/"
     },
     {
       "display_name": "Paulo",
       "linkedin_url": "https://www.linkedin.com/in/paul-omondi-84a33614a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "paul-omondi-84a33614a",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:16:54",
       "introduction": "https://www.linkedin.com/in/paul-omondi-84a33614a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app  Paul here from Singapore 😄"
     },
     {
       "display_name": "Penny",
       "real_name": "Penelope Ncube",
       "country": "Zimbabwe",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:33:31",
       "introduction": "Greetings everyone, im Penelope Ncube from Zimbabwe 🇿🇼"
     },
     {
-      "display_name": "pgirl"
+      "display_name": "pgirl",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 17:33:54"
     },
     {
-      "display_name": "Platine Nyuyki"
+      "display_name": "Platine Nyuyki",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 6,
+      "first_seen": "1/2/26 21:21:08"
     },
     {
       "display_name": "pmubano",
       "real_name": "Placidie",
       "country": "Rwanda",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:55:35",
       "introduction": "Hello everyone 👋 I am Placidie from Rwanda. it's a pleasure to be here"
     },
     {
       "display_name": "Popo Poultry enterprise",
       "real_name": "rosey",
       "country": "Uganda",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 2,
+      "first_seen": "1/2/26 12:10:57",
       "introduction": "I guess they are sleeping, anyway I'm rosey from Uganda, CEO of popo poultry enterprise but above all a developmental practitioner"
     },
     {
       "display_name": "princess Esther",
       "real_name": "Esther Kyakuwaire",
       "country": "Uganda",
+      "interests": ["technology", "entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:48:14",
       "introduction": "Hello everyone my name is Esther Kyakuwaire proudly from Uganda 🇺🇬 am so happy and humbled to be here.\nLooking forward to having a great experience, networking, business growth and friends"
     },
     {
@@ -1452,12 +2468,19 @@
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/prosper-mambambo-a2197a209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "prosper-mambambo-a2197a209",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:25:40",
       "introduction": "Hi Everyone, I’m Prosper Mambambo from South Africa( originally from Zim). \nLooking forward to connecting with you all.https://www.linkedin.com/in/prosper-mambambo-a2197a209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "pulse engineering ltd",
+      "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/amos-ocira-162a78273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "amos-ocira-162a78273"
+      "linkedin_username": "amos-ocira-162a78273",
+      "interests": ["technology", "media"],
+      "message_count": 5,
+      "first_seen": "1/2/26 11:40:42"
     },
     {
       "display_name": "Pulse Stores Ug",
@@ -1465,6 +2488,9 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/kukiriza-sinai",
       "linkedin_username": "kukiriza-sinai",
+      "interests": ["technology", "energy", "social_impact"],
+      "message_count": 12,
+      "first_seen": "1/2/26 10:09:41",
       "introduction": "Greetings Fellows,\nI am happy to be here.\nMy name is Sinai Kukiriza, from Uganda.\nLet's connect: https://www.linkedin.com/in/kukiriza-sinai"
     },
     {
@@ -1472,16 +2498,25 @@
       "country": "Zimbabwe",
       "linkedin_url": "https://www.linkedin.com/in/tsepo-manganda-07985121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "tsepo-manganda-07985121a",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:44:18",
       "introduction": "Hello everyone! Compliments of the New year.\nI'm Tsepo, from Zimbabwe 🇿🇼. Looking forward to connecting.\nhttps://www.linkedin.com/in/tsepo-manganda-07985121a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "P🎀",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:07:24",
       "introduction": "Good Day everyone, I’m Pecyl from Kenya,\nI hope you’re all enjoying the New Year\nLooking forward to interacting with you all."
     },
     {
       "display_name": "Racheal Grace",
       "country": "Uganda",
+      "interests": ["technology", "education"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:19:59",
       "introduction": "Hello everyone☺️,\nI’m Namyenya Racheal Grace from Uganda 🇺🇬.\nIt’s a pleasure to be here, and I look forward to engaging and learning with you all."
     },
     {
@@ -1489,19 +2524,35 @@
       "country": "South Africa",
       "linkedin_url": "https://za.linkedin.com/in/rahul-rama-panchia-942aa1290",
       "linkedin_username": "rahul-rama-panchia-942aa1290",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:05:01",
       "introduction": "Hi guys, \nHappy to connect with you all from South Africa 🇿🇦 🙂‍↕️\nCheck out Rahul Rama-Panchia’s profile on LinkedIn\nhttps://za.linkedin.com/in/rahul-rama-panchia-942aa1290"
     },
     {
-      "display_name": "Rare Hernia 🇺🇬",
+      "display_name": "Rare Hernia-Dr. Byomugabe",
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/byomugabe-abraham-md-b804461a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "byomugabe-abraham-md-b804461a6",
+      "interests": [
+        "health",
+        "entrepreneurship",
+        "technology",
+        "media",
+        "agriculture",
+        "social_impact"
+      ],
+      "message_count": 42,
+      "first_seen": "1/2/26 11:21:02",
       "introduction": "Hi everyone here,\nI am Byomugabe Abraham, a medical doctor (in case you need help) and MSc student of Bioinformatics (in case you have interests) from Uganda\nHere to learn and connect to entrepreneurs"
     },
     {
       "display_name": "Rashid",
       "real_name": "Rashid Sidreck",
       "country": "Malawi",
+      "interests": ["technology", "agriculture", "entrepreneurship"],
+      "message_count": 4,
+      "first_seen": "1/2/26 20:49:39",
       "introduction": "Hy everyone, my name is Rashid Sidreck from Malawi.... Glad to be here and network with everyone"
     },
     {
@@ -1510,6 +2561,9 @@
       "country": "South Sudan",
       "linkedin_url": "https://www.linkedin.com/in/reath-chuol-rut?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "reath-chuol-rut",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 13:24:11",
       "introduction": "Hi esteemed members,\nMy name is Reath Chuol from South Sudan 🇸🇸.\nPleasure commencing this amazing journey with you. Wishing you a happy new year and may you fully unlock your potential with this growth opportunity.\nLet's connect on LinkedIn:\nhttps://www.linkedin.com/in/reath-chuol-rut?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nKind regards"
     },
     {
@@ -1518,17 +2572,26 @@
       "country": "Cameroon",
       "linkedin_url": "https://www.linkedin.com/in/reina-visiy",
       "linkedin_username": "reina-visiy",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:36:25",
       "introduction": "Hello everyone I'm \nI'm Reina Visiy from Cameroon🇨🇲. Looking forward to working with y'all.\nLet's connect: www.linkedin.com/in/reina-visiy"
     },
     {
       "display_name": "Rich-Royal Empire Co. Ltd",
       "country": "Cameroon",
+      "interests": ["technology", "entrepreneurship", "agriculture"],
+      "message_count": 6,
+      "first_seen": "1/2/26 20:18:34",
       "introduction": "I have a startup company in Cameroon focused on Agribusiness. Chiefly beekeeping for honey production and value addition. Those interested in beekeeping can join me and we learn from each other. That's what this kind of platform is for. www.richroyalempire.com"
     },
     {
       "display_name": "Rk",
       "linkedin_url": "https://www.linkedin.com/in/reagan-kisakyamukama-23b2b03a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "reagan-kisakyamukama-23b2b03a0"
+      "linkedin_username": "reagan-kisakyamukama-23b2b03a0",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 20:50:40"
     },
     {
       "display_name": "Roisee 🤍",
@@ -1536,15 +2599,28 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/roselyne-abdalla-014a57206",
       "linkedin_username": "roselyne-abdalla-014a57206",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:54:00",
       "introduction": "Hi everyone! 👋\nMy name is Roselyne from Mauritius//Kenya\nHappy to connect beyond this space too, here’s my LinkedIn: https://www.linkedin.com/in/roselyne-abdalla-014a57206/"
+    },
+    {
+      "display_name": "Ruth ❤️",
+      "country": "Rwanda",
+      "message_count": 2,
+      "first_seen": "1/3/26 12:46:00"
     },
     {
       "display_name": "Rutherford",
       "country": "Uganda",
+      "message_count": 3,
+      "first_seen": "1/2/26 20:29:20",
       "introduction": "Good evening family \nAm Stanley from Uganda/South Sudan. Nice to meet you all"
     },
     {
-      "display_name": "Réussite"
+      "display_name": "Réussite",
+      "message_count": 1,
+      "first_seen": "1/2/26 14:29:16"
     },
     {
       "display_name": "s mugisha1",
@@ -1552,6 +2628,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/samuel-mugisha-761049276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B66ms6jbuT7ao8EZQf1mPBA%3D%3D",
       "linkedin_username": "samuel-mugisha-761049276",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 20:22:30",
       "introduction": "Hello, my name is Samuel Mugisha, writing from Rwanda. I’m excited to be part of this fellowship and look forward to connecting. Here is my LinkedIn profile below. https://www.linkedin.com/in/samuel-mugisha-761049276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B66ms6jbuT7ao8EZQf1mPBA%3D%3D"
     },
     {
@@ -1559,41 +2638,80 @@
       "country": "Sudan",
       "linkedin_url": "https://www.linkedin.com/in/safeia-abdullah-b80547157?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "safeia-abdullah-b80547157",
+      "instagram": "safeiaab",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 11:05:46",
       "introduction": "Hello everyone 😊 I’m Safeia from Sudan 🇸🇩 \nI’d be happy to connect with you and follow me on Instagram 🧡\nhttps://www.linkedin.com/in/safeia-abdullah-b80547157?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app\nhttps://www.instagram.com/safeiaab?igsh=NnNsMm9pY2tmdTln&utm_source=qr"
     },
     {
       "display_name": "Sandile",
       "real_name": "Sandile Sithole",
       "country": "Eswatini",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 10:13:49",
       "introduction": "Hello everyone \nIm Sandile Sithole from Eswatini"
+    },
+    {
+      "display_name": "sandra.peace",
+      "message_count": 1,
+      "first_seen": "1/3/26 12:17:06"
     },
     {
       "display_name": "Sangano James",
       "real_name": "James Sangano",
       "country": "Rwanda",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 20:54:14",
       "introduction": "Hello everyone, My name is James Sangano writing from Rwanda and I'm excited to see you and looking forward to grow together. Thank you"
     },
     {
       "display_name": "sarah",
       "real_name": "Akello Sarah",
       "country": "Uganda",
+      "interests": ["health", "technology"],
+      "message_count": 5,
+      "first_seen": "1/2/26 11:24:00",
       "introduction": "Hello comrades , I'm Dr Akello Sarah from Uganda and a student of the master of Public health .Glad to meet us all ‎<This message was edited>"
     },
     {
       "display_name": "sebabi",
       "country": "DR Congo",
+      "interests": ["social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 16:01:58",
       "introduction": "Hello am Daniel sebabi from  democratic republic of congo"
+    },
+    {
+      "display_name": "Shafic",
+      "country": "Nigeria",
+      "linkedin_url": "https://www.linkedin.com/in/zziwa-shafic",
+      "linkedin_username": "zziwa-shafic",
+      "interests": ["technology"],
+      "message_count": 7,
+      "first_seen": "1/3/26 16:19:26",
+      "introduction": "Luganda (Ganda) from Central Uganda."
     },
     {
       "display_name": "Shariff  M. Abdi",
       "country": "Kenya",
+      "city": "Nairobi",
       "linkedin_url": "https://www.linkedin.com/in/shariff-mohamed-abdi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "shariff-mohamed-abdi",
+      "university": "Mastercard Foundation Scholars Program at United States International University",
+      "interests": ["technology", "media"],
+      "message_count": 5,
+      "first_seen": "1/2/26 21:50:27",
       "introduction": "I'm shariff M.Abdi \nFrom Mastercard Foundation Scholars Program at United States International University-Africa  located in Nairobi Kenya.\nPursuing Bachelor of Science in Applied Computer Technology"
     },
     {
       "display_name": "Shega Fentaye",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:28:48",
       "introduction": "Hi, this is Shegaw from Ethiopia ‎<This message was edited>"
     },
     {
@@ -1602,6 +2720,9 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/shema-arafati-hategekimana-5baa6b395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "shema-arafati-hategekimana-5baa6b395",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 18:31:13",
       "introduction": "Hello everyone my name is Shema Arafat am from Rwanda \nAnd am glad to connect with you all.\nhttps://www.linkedin.com/in/shema-arafati-hategekimana-5baa6b395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1610,17 +2731,34 @@
       "country": "Tanzania",
       "linkedin_url": "https://www.linkedin.com/in/brenda-simba-89b55a1b9",
       "linkedin_username": "brenda-simba-89b55a1b9",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 10:13:39",
       "introduction": "Hello Fam\nHappy New Year's Eve 🫶\nLet's connect: https://www.linkedin.com/in/brenda-simba-89b55a1b9/"
     },
     {
       "display_name": "Sir Moyo",
       "country": "Malawi",
+      "message_count": 3,
+      "first_seen": "1/2/26 09:41:54",
       "introduction": "Hello fam \nHappy New year🎉\nI'm Yamikani Moyo, from Malawi"
+    },
+    {
+      "display_name": "sisipho",
+      "country": "South Africa",
+      "linkedin_url": "https://linkedin.com/in/sisipho-nogqengese-91a1b6275",
+      "linkedin_username": "sisipho-nogqengese-91a1b6275",
+      "message_count": 1,
+      "first_seen": "1/3/26 13:31:44",
+      "introduction": "Hello everyone i’m Sisipho Nogqengese from South Africa 🇿🇦 \nLet’s Connect!!\nlinkedin.com/in/sisipho-nogqengese-91a1b6275"
     },
     {
       "display_name": "Sita",
       "real_name": "Tsinat",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 17:49:32",
       "introduction": "Hello Everyone Im Tsinat From Ethiopia"
     },
     {
@@ -1628,11 +2766,17 @@
       "real_name": "Sphamandla Sokhela",
       "linkedin_url": "http://linkedin.com/in/siphamandla-sokhela-72591a2a5",
       "linkedin_username": "siphamandla-sokhela-72591a2a5",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 17:08:21",
       "introduction": "😊👋Hi everyone my name is Sphamandla  Sokhela, I’m very pleased to meet all, let kindly connect on LinkedIn 🔗\nhttp://linkedin.com/in/siphamandla-sokhela-72591a2a5 ‎<This message was edited>"
     },
     {
       "display_name": "SOLM😎",
       "country": "Malawi",
+      "interests": ["entrepreneurship"],
+      "message_count": 3,
+      "first_seen": "1/2/26 09:45:23",
       "introduction": "Hello fam Sydney Mtima from Malawi, glad to be among entrepreneur's"
     },
     {
@@ -1640,44 +2784,77 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/solomon-piwun-0284038b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "solomon-piwun-0284038b",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:57:21",
       "introduction": "Piwun Solomon, from Uganda \nLet's connect here:\nhttps://www.linkedin.com/in/solomon-piwun-0284038b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Solomon Alexander",
-      "country": "Uganda"
+      "country": "Uganda",
+      "interests": ["technology", "entrepreneurship", "environment", "energy"],
+      "message_count": 57,
+      "first_seen": "1/2/26 18:04:13"
     },
     {
       "display_name": "Solomon Tigabu",
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/sol-tig?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "sol-tig",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 12:49:24",
       "introduction": "Hey Solomon from ethiopia here"
     },
     {
       "display_name": "Somson",
+      "interests": [
+        "technology",
+        "education",
+        "energy",
+        "environment",
+        "entrepreneurship"
+      ],
+      "message_count": 4,
+      "first_seen": "1/2/26 20:53:00",
       "introduction": "Hi every one 👋👋👋. Any announcement so far from LCMCF regarding the next steps???? Thank you in advance!!!!"
     },
     {
       "display_name": "SPACEAI",
       "linkedin_url": "https://www.linkedin.com/in/tapiwa-kandiado-a63077124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "linkedin_username": "tapiwa-kandiado-a63077124"
+      "linkedin_username": "tapiwa-kandiado-a63077124",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 20:54:14"
     },
     {
-      "display_name": "stacy;"
+      "display_name": "stacy;",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:18:01"
     },
     {
       "display_name": "Steve",
       "country": "Kenya",
+      "message_count": 1,
+      "first_seen": "1/2/26 16:41:13",
       "introduction": "Stephen Gatune from Kenya"
     },
     {
-      "display_name": "still moving forward ⏩⏩⏩"
+      "display_name": "still moving forward ⏩⏩⏩",
+      "message_count": 1,
+      "first_seen": "1/2/26 15:42:09"
     },
     {
-      "display_name": "Sula"
+      "display_name": "Sula",
+      "country": "South Africa",
+      "interests": ["technology"],
+      "message_count": 4,
+      "first_seen": "1/2/26 23:03:02"
     },
     {
-      "display_name": "SUMI HAMID"
+      "display_name": "SUMI HAMID",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:12:10"
     },
     {
       "display_name": "Suprise Monyoko",
@@ -1685,12 +2862,18 @@
       "country": "South Africa",
       "linkedin_url": "https://www.linkedin.com/in/surprise-monyoko-71a18b228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "surprise-monyoko-71a18b228",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:30:01",
       "introduction": "Hello everyone, I'm Suprise Monyoko from South Africa. I'm happy to be here among great minds. I am looking forward to connecting. \nhttps://www.linkedin.com/in/surprise-monyoko-71a18b228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Suzie",
       "real_name": "Suzie",
       "country": "Sierra Leone",
+      "interests": ["technology"],
+      "message_count": 11,
+      "first_seen": "1/2/26 18:17:24",
       "introduction": "Hello everyone 👋\nI'm Suzie from Sierra Leone. I am happy to be here with y'all."
     },
     {
@@ -1699,18 +2882,38 @@
       "country": "Zambia",
       "linkedin_url": "https://www.linkedin.com/in/sydney-kalasa-82032120b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWNNhgFfeQM2ho2HQPEk%2FYg%3D%3D",
       "linkedin_username": "sydney-kalasa-82032120b",
+      "email": "sydneykalasa097@gmail.Com",
+      "interests": [
+        "technology",
+        "agriculture",
+        "finance",
+        "energy",
+        "environment",
+        "social_impact",
+        "entrepreneurship"
+      ],
+      "message_count": 3,
+      "first_seen": "1/2/26 10:00:12",
       "introduction": "Thank you for the opportunity. \nI’m excited to be part of this community of entrepreneurs building in solutions across the globe.\nI’m joining you from Zambia, the Pearl of Southern Africa, a country rich in opportunity and ready for sustainable investment.\nMy name is Sydney Kalasa and I’m the founder of GriteX Manufacturing Solutions, where we transform agricultural waste into high-value materials, supporting circular economy, reducing carbon emissions, and driving local industrial growth.\nI’m h"
     },
     {
-      "display_name": "TDM Art Studio"
+      "display_name": "TDM Art Studio",
+      "interests": ["technology", "agriculture", "environment"],
+      "message_count": 1,
+      "first_seen": "1/2/26 22:04:16"
     },
     {
       "display_name": "temwanicalvin",
       "country": "Rwanda",
+      "interests": ["technology"],
+      "message_count": 15,
+      "first_seen": "1/2/26 21:29:16",
       "introduction": "Go and marry you have my blessings,,,  infact Two girls from Rwanda are in your inbox right now,,, if they ask you for money just give them you should thank me later😊"
     },
     {
-      "display_name": "Teresa Chimaimba"
+      "display_name": "Teresa Chimaimba",
+      "message_count": 3,
+      "first_seen": "1/2/26 17:49:28"
     },
     {
       "display_name": "Tesfaye",
@@ -1718,6 +2921,9 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/tesfayemulie?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "tesfayemulie",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:31:30",
       "introduction": "Hi there! I am Tesfaye Mulie from Ethiopia, and I would love to connect with you on LinkedIn\nhttps://www.linkedin.com/in/tesfayemulie?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1725,6 +2931,9 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/dafford-owino-a76460210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "dafford-owino-a76460210",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 15:11:28",
       "introduction": "Hello Good people, Dafford Owino here from Kenya. Jolly nice to be here. \nhttps://www.linkedin.com/in/dafford-owino-a76460210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1732,12 +2941,17 @@
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/emmanuel-wambete-b06465230",
       "linkedin_username": "emmanuel-wambete-b06465230",
+      "message_count": 2,
+      "first_seen": "1/2/26 09:34:44",
       "introduction": "Emmanuel wambete from Kenya"
     },
     {
       "display_name": "this too shall pass",
       "real_name": "Dan Baita",
       "country": "Uganda",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:45:03",
       "introduction": "Good morning colleagues.\nI'm Dan Baita from Uganda.\nHappy to be here."
     },
     {
@@ -1746,20 +2960,29 @@
       "country": "Zimbabwe",
       "linkedin_url": "https://www.linkedin.com/in/thomson-budzi-a76745373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "thomson-budzi-a76745373",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:11:20",
       "introduction": "Hello everyone,  My name is Budzi Thomson from Zimbabwe. I am happy to be among people and am also happy to connect. \nhttps://www.linkedin.com/in/thomson-budzi-a76745373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
-      "display_name": "Tigist"
+      "display_name": "Tigist",
+      "message_count": 1,
+      "first_seen": "1/3/26 06:11:10"
     },
     {
       "display_name": "tigistfiseha066",
       "real_name": "Tigist",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 20:10:15",
       "introduction": "Hello everyone one My name is Tigist from Ethiopia."
     },
     {
       "display_name": "Tina mummy's girl 😘🥳😘",
       "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/2/26 10:21:53",
       "introduction": "Hello, \nChristine Ayinkamiye from Rwanda. Glad to be here"
     },
     {
@@ -1768,27 +2991,45 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/atukwatse-tracy",
       "linkedin_username": "atukwatse-tracy",
+      "interests": ["technology", "social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 17:29:31",
       "introduction": "Hi everyone 🤗\nI'm Atukwatse Tracy from Uganda 🇺🇬.\nExcited to be part of this community and looking forward to sharing ideas, collaborations, and meaningful connections.\nLet's connect;\n‎LinkedIn:https://www.linkedin.com/in/atukwatse-tracy/"
     },
     {
       "display_name": "traveller 🫶🏾❤‍🔥",
       "linkedin_url": "https://www.linkedin.com/in/joy-opiyo-71a37627a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "joy-opiyo-71a37627a"
+      "linkedin_username": "joy-opiyo-71a37627a",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 15:08:46"
+    },
+    {
+      "display_name": "TshepangAmantleNtogeleng",
+      "message_count": 1,
+      "first_seen": "1/3/26 12:26:19"
     },
     {
       "display_name": "Tsigie",
+      "message_count": 3,
+      "first_seen": "1/2/26 09:48:37",
       "introduction": "hey Mahlet, nice to meet you from Addis"
     },
     {
       "display_name": "Tuntu",
       "linkedin_url": "https://www.linkedin.com/in/tuntufye-muyawa-7bb84b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "tuntufye-muyawa-7bb84b34b"
+      "linkedin_username": "tuntufye-muyawa-7bb84b34b",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 17:11:18"
     },
     {
       "display_name": "Tuyishime Elie",
       "real_name": "TUYISHIME Elie",
       "linkedin_url": "https://www.linkedin.com/in/tuyishime-elie-b5030b285",
       "linkedin_username": "tuyishime-elie-b5030b285",
+      "message_count": 2,
+      "first_seen": "1/2/26 11:59:16",
       "introduction": "Hello my name is TUYISHIME Elie."
     },
     {
@@ -1797,14 +3038,22 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/umunyana-marie-chantal-md-766696108?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_appf",
       "linkedin_username": "umunyana-marie-chantal-md-766696108",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 11:13:38",
       "introduction": "Hi Everyone,\nMy Name is Umunyana from Rwanda! Happy to be here!\nhttps://www.linkedin.com/in/umunyana-marie-chantal-md-766696108?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_appf"
     },
     {
-      "display_name": "Uncle Davido"
+      "display_name": "Uncle Davido",
+      "message_count": 1,
+      "first_seen": "1/2/26 17:23:51"
     },
     {
       "display_name": "uNozithelo",
-      "country": "Ethiopia"
+      "country": "Ethiopia",
+      "interests": ["technology", "social_impact"],
+      "message_count": 7,
+      "first_seen": "1/2/26 19:06:03"
     },
     {
       "display_name": "vanities👐",
@@ -1812,6 +3061,9 @@
       "country": "Uganda",
       "linkedin_url": "https://www.linkedin.com/in/alotu-john-bosco-06b255314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "alotu-john-bosco-06b255314",
+      "interests": ["technology", "media", "entrepreneurship"],
+      "message_count": 10,
+      "first_seen": "1/2/26 10:04:59",
       "introduction": "Hello awesome group, It's such a privilege to stand short in the midst of such exceptional talent Crew that yields great wisdom 😂 \nI am Alotu John Bosco from Uganda 🇺🇬 Let's connect here👇\nhttps://www.linkedin.com/in/alotu-john-bosco-06b255314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1819,19 +3071,30 @@
       "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/venant-nzabandora-55134926b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "venant-nzabandora-55134926b",
+      "interests": ["technology", "media"],
+      "message_count": 3,
+      "first_seen": "1/2/26 12:37:20",
       "introduction": "Greetings from Rwanda,Click on this link to know more about me and to connect with me.\nThank you."
     },
     {
       "display_name": "Verde Garden and Nursery",
       "country": "Malawi",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 09:42:21",
       "introduction": "Greetings, Lao Nsusa from Malawi. It's an honor to be here."
     },
     {
-      "display_name": "VIANTEE DESIGNS HUB 👨🏽‍💻"
+      "display_name": "VIANTEE DESIGNS HUB 👨🏽‍💻",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:09:27"
     },
     {
       "display_name": "VICKY BB🦋♏️",
       "country": "Cameroon",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 14:25:51",
       "introduction": "Hello everyone, am Ajocha Victorine from Cameroon 🇨🇲 am excited to meet, connect and share experiences with everyone."
     },
     {
@@ -1839,18 +3102,29 @@
       "country": "Malawi",
       "linkedin_url": "https://www.linkedin.com/in/james-john-b0307b336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "james-john-b0307b336",
+      "interests": ["technology", "media", "entrepreneurship"],
+      "message_count": 14,
+      "first_seen": "1/2/26 20:23:07",
       "introduction": "Howdy everyone, here James Christian John from Malawi \nhttps://www.linkedin.com/in/james-john-b0307b336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "Vincent 😊",
       "real_name": "Vincent Alex Mbaya",
       "country": "Kenya",
+      "interests": ["social_impact"],
+      "message_count": 1,
+      "first_seen": "1/2/26 18:13:47",
       "introduction": "Hello everyone 😊\nI am  Vincent Alex Mbaya\nFrom Kenya 🇰🇪\nA social worker by profession and a system Thinking expert."
     },
     {
       "display_name": "Wad Ismail",
       "real_name": "Jacob Ismail",
       "country": "Sudan",
+      "city": "Nairobi",
+      "university": "United States international University",
+      "interests": ["technology", "social_impact", "entrepreneurship"],
+      "message_count": 1,
+      "first_seen": "1/2/26 11:43:37",
       "introduction": "Happy New Year.\nI am Jacob Ismail from Sudan, studying at United States international University in Nairobi. I am glad to be among this great community of entrepreneurs. It is my pleasure to connect with you all. ‎<This message was edited>"
     },
     {
@@ -1859,13 +3133,23 @@
       "country": "Kenya",
       "linkedin_url": "https://ke.linkedin.com/in/esther-wangui-96868934b",
       "linkedin_username": "esther-wangui-96868934b",
+      "message_count": 2,
+      "first_seen": "1/2/26 11:54:48",
       "introduction": "Hello everyone. \nI'm Esther Wangui from Kenya. Let's connect on LinkedIn too. Happy new year!!"
     },
     {
       "display_name": "Wilkister",
       "real_name": "Wilkister Agiza",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/2/26 20:31:44",
       "introduction": "Hi everyone and happy new year I'm Wilkister Agiza from Kenya looking forward to connect and network with you"
+    },
+    {
+      "display_name": "Williams",
+      "message_count": 2,
+      "first_seen": "1/3/26 09:51:04"
     },
     {
       "display_name": "Wudneh",
@@ -1873,6 +3157,9 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/wudneh-amare-workineh-msc-srmp-c-680a22235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "wudneh-amare-workineh-msc-srmp-c-680a22235",
+      "interests": ["technology", "media", "energy", "fashion"],
+      "message_count": 2,
+      "first_seen": "1/2/26 20:02:43",
       "introduction": "Hello everyone, I'm Wudneh from Ethiopia and I'm glad to be part of this amazing fellowship opportunity. You can communicate with me via my LinkedIn profile 👇\nhttps://www.linkedin.com/in/wudneh-amare-workineh-msc-srmp-c-680a22235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
@@ -1880,24 +3167,38 @@
       "country": "Ethiopia",
       "linkedin_url": "https://www.linkedin.com/in/yeabsira-bahiru-194a37200",
       "linkedin_username": "yeabsira-bahiru-194a37200",
+      "message_count": 1,
+      "first_seen": "1/2/26 17:58:18",
       "introduction": "Hey everyone, Yeabsira from Ethiopia.\nNice to meet everyone.\nhttps://www.linkedin.com/in/yeabsira-bahiru-194a37200"
     },
     {
       "display_name": "Yeadeh Lavien David",
+      "message_count": 1,
+      "first_seen": "1/2/26 12:18:10",
       "introduction": "Hi everyone, I’m Yeadeh from Liberia 🇱🇷. Nice to meet everyone in here"
     },
     {
       "display_name": "Yen Pastries",
+      "real_name": "Lucia Yen",
+      "country": "Rwanda",
       "linkedin_url": "https://www.linkedin.com/in/wanchi-lucia-yen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "wanchi-lucia-yen",
+      "interests": ["technology", "media"],
+      "message_count": 7,
+      "first_seen": "1/2/26 12:55:14",
       "introduction": "Hello hello hello!!\nLet's link up on LinkedIn!\nhttps://www.linkedin.com/in/wanchi-lucia-yen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
       "display_name": "yobunkhoma@gmail.com",
       "real_name": "Yobu Nkhoma",
       "country": "Malawi",
+      "city": "Lilongwe",
       "linkedin_url": "https://www.linkedin.com/in/yobu-nkhoma-283b002a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "yobu-nkhoma-283b002a9",
+      "email": "yobunkhoma@gmail.com",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:01:36",
       "introduction": "https://www.linkedin.com/in/yobu-nkhoma-283b002a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nHello everyone,\nMy Name is Yobu Nkhoma.\nTexting from The Warm Heart of Africa,  Malawi, specifically in Lilongwe.\nLooking forward to connect and learn from you all"
     },
     {
@@ -1906,27 +3207,39 @@
       "country": "Zimbabwe",
       "linkedin_url": "https://www.linkedin.com/in/rufaro-tatenda-waziweyi-31b63b336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       "linkedin_username": "rufaro-tatenda-waziweyi-31b63b336",
+      "interests": ["technology", "agriculture", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 21:35:11",
       "introduction": "Hiee everyone. I'm Rufaro from Zimbabwe. I'm into Agri-processing. It's lovely to be amongst you all"
     },
     {
       "display_name": "Zekarias",
       "real_name": "Zekarias",
       "country": "Ethiopia",
+      "message_count": 1,
+      "first_seen": "1/2/26 11:35:52",
       "introduction": "Hello everyone! My name is Zekarias from Ethiopia."
     },
     {
       "display_name": "Zesco Chimaliro",
-      "country": "Malawi"
+      "country": "Malawi",
+      "message_count": 1,
+      "first_seen": "1/2/26 09:35:21"
     },
     {
       "display_name": "Μιχαήλ",
       "linkedin_url": "https://www.linkedin.com/in/michael-madalitso-mapeta-616002103?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "michael-madalitso-mapeta-616002103"
+      "linkedin_username": "michael-madalitso-mapeta-616002103",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:56:03"
     },
     {
       "display_name": "فردوس",
       "real_name": "Umutoni Fridaus",
       "country": "Rwanda",
+      "message_count": 1,
+      "first_seen": "1/2/26 15:26:57",
       "introduction": "Hello I am Umutoni Fridaus from Rwanda nice to meet you here all"
     },
     {
@@ -1934,57 +3247,88 @@
       "country": "Namibia",
       "linkedin_url": "https://www.linkedin.com/in/monica-hella-ilonga-500281123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "monica-hella-ilonga-500281123",
+      "interests": ["technology", "media"],
+      "message_count": 2,
+      "first_seen": "1/2/26 09:59:57",
       "introduction": "Hello everyone, Monica here from Namibia, looking forward to make strong connections, network, collaboration, learn and share experiences. Please let’s connect.\nhttps://www.linkedin.com/in/monica-hella-ilonga-500281123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    },
+    {
+      "display_name": "‪+256 777 334706‬",
+      "linkedin_url": "https://www.linkedin.com/in/dtlegita",
+      "linkedin_username": "dtlegita",
+      "interests": ["technology"],
+      "message_count": 1,
+      "first_seen": "1/3/26 15:43:50"
     },
     {
       "display_name": "ネリー",
       "real_name": "Nelly",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 2,
+      "first_seen": "1/2/26 18:42:54",
       "introduction": "Hello, I am Nelly from Kenya. I am excited to be here and i can't wait to connect with y'all 😀"
     },
     {
       "display_name": "𝐌𝐚𝐫𝐭𝐢𝐧 𝐇𝐚𝐫𝐭𝐨𝐧 𝐆𝐫𝐚𝐜𝐢𝐨𝐮𝐬 🇺🇬🇷🇼",
       "linkedin_url": "https://www.linkedin.com/in/jean-martin-niyibizi-41aa04247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "jean-martin-niyibizi-41aa04247"
-    },
-    {
-      "display_name": "🌱☘️🚀",
-      "country": "South Sudan",
-      "linkedin_url": "https://www.linkedin.com/in/devai-peter-arkangelo-5a8556298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "linkedin_username": "devai-peter-arkangelo-5a8556298",
-      "introduction": "Hello everyone 👋\nI'm Devai Peter, a South Sudanese 🇸🇸, but currently based in Egypt.\nI'm super excited to be part of this community.\nhttps://www.linkedin.com/in/devai-peter-arkangelo-5a8556298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\n‎[02/01/2026, 21:04:14] ~ Baatile Masia: ‎<attached: 00001381-PHOTO-2026-01-02-21-04-15.jpg>"
+      "linkedin_username": "jean-martin-niyibizi-41aa04247",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 12:56:17"
     },
     {
       "display_name": "🌸𝓞𝓹𝓻𝓪𝓱 𝓦𝓲𝓷𝓯𝓻𝓮𝔂🌸",
       "country": "Kenya",
       "linkedin_url": "https://www.linkedin.com/in/oprah-opiyo-869a93326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "linkedin_username": "oprah-opiyo-869a93326",
+      "interests": ["technology", "media"],
+      "message_count": 1,
+      "first_seen": "1/2/26 19:11:52",
       "introduction": "Hey everyone, l am Oprah from Kenya✨\nhttps://www.linkedin.com/in/oprah-opiyo-869a93326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
       "display_name": "🎀",
       "real_name": "Mary",
       "country": "Kenya",
+      "interests": ["technology"],
+      "message_count": 3,
+      "first_seen": "1/2/26 14:28:30",
       "introduction": "Hello  everyone\nI am Mary from Kenya\nSuper excited to be here and connect .☺️"
     },
     {
       "display_name": "🎀Dorry",
       "real_name": "Dorcas",
       "country": "Tanzania",
+      "message_count": 1,
+      "first_seen": "1/2/26 22:15:03",
       "introduction": "Hi Fellows\nI'm Dorcas from Tanzania,\nGlad to meet you all."
     },
     {
+      "display_name": "👑 Kevin",
+      "message_count": 1,
+      "first_seen": "1/3/26 11:06:18"
+    },
+    {
       "display_name": "😘",
-      "linkedin_url": "https://www.linkedin.com/in/ritah-koko-2514b5218",
-      "linkedin_username": "ritah-koko-2514b5218"
+      "linkedin_url": "https://www.linkedin.com/in/ritah-koko-2514b52",
+      "linkedin_username": "ritah-koko-2514b52",
+      "interests": ["technology"],
+      "message_count": 6,
+      "first_seen": "1/2/26 12:05:09"
     },
     {
       "display_name": "🤥",
       "country": "Ethiopia",
+      "interests": ["technology"],
+      "message_count": 8,
+      "first_seen": "1/2/26 12:05:53",
       "introduction": "Curious to know\nWhich year do academic papers use in Ethiopia.\nHave always wanted to inquire this from the citizens there.\nIf you graduate in 2026,do the academic documents contain 2018  in Ethiopia."
     },
     {
       "display_name": "🦋❤️‍🔥💋Àŷímå❤️‍🔥💋🦋",
+      "message_count": 4,
+      "first_seen": "1/2/26 15:32:24",
       "introduction": "Nice to meet you all , am Ayima from ugandaaaaaaaa🇺🇬"
     }
   ]
