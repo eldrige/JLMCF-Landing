@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_file": "_chat.txt",
-    "total_participants": 339,
-    "participants_with_linkedin": 153,
-    "participants_with_country": 244,
+    "total_participants": 340,
+    "participants_with_linkedin": 154,
+    "participants_with_country": 245,
     "countries_breakdown": {
       "Unknown": 95,
       "Ethiopia": 40,
@@ -11,7 +11,7 @@
       "Rwanda": 35,
       "Kenya": 34,
       "Malawi": 23,
-      "Cameroon": 9,
+      "Cameroon": 10,
       "Zimbabwe": 8,
       "South Sudan": 8,
       "South Africa": 8,
@@ -287,6 +287,14 @@
       "linkedin_url": "https://linkedin.com/in/benard-owori",
       "linkedin_username": "benard-owori",
       "introduction": "Hi everyone 🤗\nI'm Benard from Uganda 🇺🇬, the Pearl of Africa.\nExcited to be part of this community and looking forward to sharing ideas, collaborations, and meaningful connections.\nLet's connect: http://linkedin.com/in/benard-owori"
+    },
+    {
+      "display_name": "Eldrige",
+      "real_name": "Apoh Eldrige",
+      "country": "Cameroon",
+      "linkedin_url": "https://linkedin.com/in/apoh-eldrige",
+      "linkedin_username": "apoh-eldrige",
+      "introduction": "Hi everyone 🤗\nI'm Eldrige from Cameroon 🇨🇲.\nExcited to be part of this community and looking forward to sharing ideas, collaborations, and meaningful connections.\nLet's connect: http://linkedin.com/in/apoh-eldrige"
     },
     {
       "display_name": "Bendjedid Rachad Sanoussi",
